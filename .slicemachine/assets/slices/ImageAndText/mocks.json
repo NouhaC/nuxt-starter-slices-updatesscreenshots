@@ -12,33 +12,33 @@
         },
         "alt": "Placeholder image",
         "copyright": null,
-        "url": "https://images.prismic.io/slices-example-nuxt/48a00ca6-db07-4a2f-91ed-afe60db0ccca_image-secondary.png?w=1000&h=1000&fit=crop"
+        "url": "https://images.prismic.io/slices-example-nuxt/88018c9e-897f-4a96-b5af-8cad835333f0_image-primary.png?w=1000&h=1000&fit=crop"
       },
       "video": {
         "link_type": "media",
         "url": "https://source.unsplash.com/daily"
       },
-      "tagline": "leverage bricks-and-clicks e-commerce",
+      "tagline": "whiteboard vertical e-services",
       "title": [
         {
           "type": "heading2",
-          "text": "Leverage strategic e-business",
+          "text": "Expedite one-to-one e-markets",
           "spans": []
         }
       ],
       "text": [
         {
           "type": "paragraph",
-          "text": "Quis proident amet dolore laboris veniam in laborum elit elit duis quis nisi ipsum ex.",
+          "text": "Adipisicing qui adipisicing nisi laborum ea esse sit dolore adipisicing occaecat.",
           "spans": []
         }
       ],
-      "ctaLabel": "empower global functionalities",
+      "ctaLabel": "generate granular web services",
       "ctaLink": {
         "link_type": "Web",
-        "url": "https://slicemachine.dev"
+        "url": "http://twitter.com"
       },
-      "top": false
+      "top": true
     }
   },
   {
@@ -47,25 +47,25 @@
     "slice_type": "image_and_text",
     "items": [],
     "primary": {
-      "tagline": "seize strategic schemas",
+      "tagline": "extend transparent models",
       "title": [
         {
           "type": "heading2",
-          "text": "Drive B2C deliverables",
+          "text": "Aggregate extensible relationships",
           "spans": []
         }
       ],
       "text": [
         {
           "type": "paragraph",
-          "text": "Consequat ea minim deserunt officia aliquip tempor tempor aliquip consectetur excepteur anim laboris officia non irure. Ipsum anim minim ut eiusmod in ut eu sit excepteur reprehenderit consectetur ea ad.",
+          "text": "Consectetur mollit minim mollit occaecat.",
           "spans": []
         }
       ],
-      "ctaLabel": "cultivate granular infrastructures",
+      "ctaLabel": "redefine e-business platforms",
       "ctaLink": {
         "link_type": "Web",
-        "url": "https://slicemachine.dev"
+        "url": "http://twitter.com"
       },
       "image": {
         "dimensions": {
@@ -80,7 +80,7 @@
         "link_type": "media",
         "url": "https://source.unsplash.com/daily"
       },
-      "top": true
+      "top": false
     }
   },
   {
@@ -98,27 +98,27 @@
         "copyright": null,
         "url": "https://images.prismic.io/slices-example-nuxt/48a00ca6-db07-4a2f-91ed-afe60db0ccca_image-secondary.png?w=1000&h=1000&fit=crop"
       },
-      "tagline": "engage intuitive bandwidth",
+      "tagline": "recontextualize out-of-the-box ROI",
       "title": [
         {
           "type": "heading2",
-          "text": "Facilitate extensible relationships",
+          "text": "Streamline bricks-and-clicks users",
           "spans": []
         }
       ],
       "text": [
         {
           "type": "paragraph",
-          "text": "Reprehenderit sit excepteur laboris eiusmod.",
+          "text": "Anim et et reprehenderit laborum laboris culpa. Anim ullamco ut minim laboris.",
           "spans": []
         }
       ],
-      "ctaLabel": "e-enable innovative niches",
+      "ctaLabel": "deploy B2C partnerships",
       "ctaLink": {
         "link_type": "Web",
-        "url": "https://slicemachine.dev"
+        "url": "http://google.com"
       },
-      "top": true
+      "top": false
     }
   },
   {
@@ -127,25 +127,25 @@
     "slice_type": "image_and_text",
     "items": [],
     "primary": {
-      "tagline": "utilize B2C communities",
+      "tagline": "repurpose collaborative relationships",
       "title": [
         {
           "type": "heading2",
-          "text": "Harness customized solutions",
+          "text": "Productize leading-edge ROI",
           "spans": []
         }
       ],
       "text": [
         {
           "type": "paragraph",
-          "text": "In officia qui nulla nisi exercitation irure. Tempor esse do velit. Aliquip do do ex aliqua.",
+          "text": "Laborum magna veniam est exercitation sunt sunt irure consectetur do deserunt aute. Anim voluptate laborum irure commodo ut est. Cillum laboris nisi sunt excepteur amet ea Lorem voluptate ex sint velit fugiat adipisicing.",
           "spans": []
         }
       ],
-      "ctaLabel": "revolutionize wireless technologies",
+      "ctaLabel": "implement 24/365 synergies",
       "ctaLink": {
         "link_type": "Web",
-        "url": "http://twitter.com"
+        "url": "https://prismic.io"
       },
       "image": {
         "dimensions": {
@@ -156,7 +156,7 @@
         "copyright": null,
         "url": "https://images.prismic.io/slices-example-nuxt/48a00ca6-db07-4a2f-91ed-afe60db0ccca_image-secondary.png?w=1000&h=1000&fit=crop"
       },
-      "top": true
+      "top": false
     }
   },
   {
@@ -178,27 +178,27 @@
         "link_type": "media",
         "url": "https://source.unsplash.com/daily"
       },
-      "tagline": "syndicate synergistic functionalities",
+      "tagline": "streamline frictionless vortals",
       "title": [
         {
           "type": "heading2",
-          "text": "Reinvent viral platforms",
+          "text": "Iterate cutting-edge architectures",
           "spans": []
         }
       ],
       "text": [
         {
           "type": "paragraph",
-          "text": "Minim aute aliqua incididunt mollit qui aliqua.",
+          "text": "Mollit pariatur Lorem dolore ex incididunt est laborum ipsum tempor reprehenderit nostrud consequat est. Tempor enim qui labore sint magna ad irure irure.",
           "spans": []
         }
       ],
-      "ctaLabel": "evolve next-generation models",
+      "ctaLabel": "implement back-end functionalities",
       "ctaLink": {
         "link_type": "Web",
-        "url": "http://google.com"
+        "url": "http://twitter.com"
       },
-      "top": true
+      "top": false
     }
   },
   {
@@ -207,25 +207,25 @@
     "slice_type": "image_and_text",
     "items": [],
     "primary": {
-      "tagline": "drive turn-key relationships",
+      "tagline": "incentivize intuitive web-readiness",
       "title": [
         {
           "type": "heading2",
-          "text": "Incubate mission-critical ROI",
+          "text": "Iterate 24/7 experiences",
           "spans": []
         }
       ],
       "text": [
         {
           "type": "paragraph",
-          "text": "In non esse enim excepteur culpa sunt dolor labore ut adipisicing deserunt. Cupidatat culpa elit adipisicing enim magna eu laboris ea anim eu nulla quis reprehenderit eu eiusmod. Nulla proident aute irure ex irure ipsum voluptate.",
+          "text": "Sit incididunt consectetur ut ipsum cupidatat sunt. Nostrud ea fugiat consequat occaecat enim proident.",
           "spans": []
         }
       ],
-      "ctaLabel": "architect enterprise e-markets",
+      "ctaLabel": "revolutionize bleeding-edge content",
       "ctaLink": {
         "link_type": "Web",
-        "url": "https://slicemachine.dev"
+        "url": "http://google.com"
       },
       "image": {
         "dimensions": {
@@ -258,22 +258,22 @@
         "copyright": null,
         "url": "https://images.prismic.io/slices-example-nuxt/88018c9e-897f-4a96-b5af-8cad835333f0_image-primary.png?w=1000&h=1000&fit=crop"
       },
-      "tagline": "scale seamless e-services",
+      "tagline": "engineer efficient users",
       "title": [
         {
           "type": "heading2",
-          "text": "Enable bleeding-edge synergies",
+          "text": "Recontextualize out-of-the-box platforms",
           "spans": []
         }
       ],
       "text": [
         {
           "type": "paragraph",
-          "text": "Commodo consequat cillum nulla.",
+          "text": "Ea Lorem fugiat tempor dolor incididunt reprehenderit velit nostrud laboris adipisicing consequat. Excepteur dolor deserunt id laboris mollit nisi. Consectetur ea adipisicing irure Lorem.",
           "spans": []
         }
       ],
-      "ctaLabel": "enable dynamic bandwidth",
+      "ctaLabel": "visualize bricks-and-clicks vortals",
       "ctaLink": {
         "link_type": "Web",
         "url": "https://slicemachine.dev"
@@ -287,22 +287,22 @@
     "slice_type": "image_and_text",
     "items": [],
     "primary": {
-      "tagline": "recontextualize clicks-and-mortar ROI",
+      "tagline": "utilize extensible technologies",
       "title": [
         {
           "type": "heading2",
-          "text": "Deliver bleeding-edge models",
+          "text": "Target web-enabled vortals",
           "spans": []
         }
       ],
       "text": [
         {
           "type": "paragraph",
-          "text": "Amet ex adipisicing nostrud laboris anim irure culpa est nulla aute deserunt culpa ad sit sit.",
+          "text": "Eu nostrud consequat nisi aute consequat sunt reprehenderit incididunt reprehenderit laboris mollit nisi aute ullamco esse. Pariatur exercitation nisi elit eu. Non pariatur in proident velit duis elit labore ad do ea qui incididunt adipisicing.",
           "spans": []
         }
       ],
-      "ctaLabel": "deploy one-to-one functionalities",
+      "ctaLabel": "facilitate dot-com users",
       "ctaLink": {
         "link_type": "Web",
         "url": "http://google.com"
@@ -316,7 +316,7 @@
         "copyright": null,
         "url": "https://images.prismic.io/slices-example-nuxt/88018c9e-897f-4a96-b5af-8cad835333f0_image-primary.png?w=1000&h=1000&fit=crop"
       },
-      "top": false
+      "top": true
     }
   }
 ]

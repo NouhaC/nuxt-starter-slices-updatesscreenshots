@@ -43,7 +43,7 @@
                     "label": "Title",
                     "placeholder": "This is where it all begins...",
                     "allowTargetBlank": false,
-                    "single": "heading2"
+                    "multi": "heading2"
                   }
                 },
                 "text": {
@@ -77,7 +77,8 @@
                   "config": {
                     "label": "Call to action link",
                     "placeholder": "",
-                    "allowTargetBlank": false
+                    "allowTargetBlank": false,
+                    "select": null
                   },
                   "type": "Link"
                 },
@@ -93,7 +94,8 @@
                   },
                   "type": "Select"
                 }
-              }
+              },
+              "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
             },
             {
               "id": "contained",
@@ -160,7 +162,8 @@
                   "config": {
                     "label": "Call to action link",
                     "placeholder": "",
-                    "allowTargetBlank": false
+                    "allowTargetBlank": false,
+                    "select": null
                   },
                   "type": "Link"
                 },
@@ -176,7 +179,8 @@
                   },
                   "type": "Select"
                 }
-              }
+              },
+              "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
             },
             {
               "id": "fullSecondary",
@@ -243,7 +247,8 @@
                   "config": {
                     "label": "Call to action link",
                     "placeholder": "",
-                    "allowTargetBlank": false
+                    "allowTargetBlank": false,
+                    "select": null
                   },
                   "type": "Link"
                 },
@@ -259,7 +264,8 @@
                   },
                   "type": "Select"
                 }
-              }
+              },
+              "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
             },
             {
               "id": "containedSecondary",
@@ -326,7 +332,8 @@
                   "config": {
                     "label": "Call to action link",
                     "placeholder": "",
-                    "allowTargetBlank": false
+                    "allowTargetBlank": false,
+                    "select": null
                   },
                   "type": "Link"
                 },
@@ -342,7 +349,8 @@
                   },
                   "type": "Select"
                 }
-              }
+              },
+              "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
             }
           ]
         },
@@ -353,18 +361,26 @@
             "slice_type": "cover",
             "items": [
               {
-                "ctaLabel": "innovate mission-critical content",
+                "ctaLabel": "monetize magnetic partnerships",
                 "ctaLink": {
                   "link_type": "Web",
-                  "url": "http://google.com"
+                  "url": "https://slicemachine.dev"
                 },
                 "ctaStyle": "Outline"
               },
               {
-                "ctaLabel": "leverage cross-media bandwidth",
+                "ctaLabel": "innovate holistic e-commerce",
                 "ctaLink": {
                   "link_type": "Web",
                   "url": "http://twitter.com"
+                },
+                "ctaStyle": "Filled"
+              },
+              {
+                "ctaLabel": "disintermediate wireless e-markets",
+                "ctaLink": {
+                  "link_type": "Web",
+                  "url": "https://prismic.io"
                 },
                 "ctaStyle": "Filled"
               }
@@ -379,22 +395,22 @@
                 "copyright": null,
                 "url": "https://images.prismic.io/slices-example-nuxt/88018c9e-897f-4a96-b5af-8cad835333f0_image-primary.png?w=2000&h=1000&fit=crop"
               },
-              "tagline": "facilitate value-added action-items",
+              "tagline": "matrix virtual relationships",
               "title": [
                 {
                   "type": "heading2",
-                  "text": "Reintermediate 24/365 e-commerce",
+                  "text": "Enhance virtual deliverables",
                   "spans": []
                 }
               ],
               "text": [
                 {
                   "type": "paragraph",
-                  "text": "Culpa consequat dolor ea est eu tempor excepteur sunt esse duis reprehenderit elit. Pariatur reprehenderit mollit et Lorem.",
+                  "text": "Sunt eu occaecat tempor cupidatat quis laboris ipsum culpa quis cupidatat occaecat. Et sunt irure dolore excepteur eu minim culpa duis est ea incididunt et laboris.",
                   "spans": []
                 }
               ],
-              "top": false
+              "top": true
             }
           },
           "contained": {
@@ -403,15 +419,7 @@
             "slice_type": "cover",
             "items": [
               {
-                "ctaLabel": "synergize dynamic communities",
-                "ctaLink": {
-                  "link_type": "Web",
-                  "url": "http://google.com"
-                },
-                "ctaStyle": "Filled"
-              },
-              {
-                "ctaLabel": "implement intuitive channels",
+                "ctaLabel": "extend frictionless portals",
                 "ctaLink": {
                   "link_type": "Web",
                   "url": "http://twitter.com"
@@ -419,23 +427,23 @@
                 "ctaStyle": "Filled"
               },
               {
-                "ctaLabel": "extend one-to-one methodologies",
+                "ctaLabel": "disintermediate strategic communities",
                 "ctaLink": {
                   "link_type": "Web",
-                  "url": "http://twitter.com"
+                  "url": "http://google.com"
                 },
                 "ctaStyle": "Filled"
               },
               {
-                "ctaLabel": "grow 24/365 e-services",
+                "ctaLabel": "visualize synergistic eyeballs",
                 "ctaLink": {
                   "link_type": "Web",
-                  "url": "http://google.com"
+                  "url": "https://slicemachine.dev"
                 },
                 "ctaStyle": "Outline"
               },
               {
-                "ctaLabel": "generate proactive paradigms",
+                "ctaLabel": "optimize e-business methodologies",
                 "ctaLink": {
                   "link_type": "Web",
                   "url": "http://google.com"
@@ -453,18 +461,18 @@
                 "copyright": null,
                 "url": "https://images.prismic.io/slices-example-nuxt/88018c9e-897f-4a96-b5af-8cad835333f0_image-primary.png?w=2000&h=1000&fit=crop"
               },
-              "tagline": "engineer efficient paradigms",
+              "tagline": "streamline granular web services",
               "title": [
                 {
                   "type": "heading2",
-                  "text": "Unleash mission-critical blockchains",
+                  "text": "Iterate leading-edge content",
                   "spans": []
                 }
               ],
               "text": [
                 {
                   "type": "paragraph",
-                  "text": "Voluptate ullamco enim qui non magna consectetur voluptate. Labore commodo consectetur commodo ut ut minim ipsum velit reprehenderit pariatur occaecat non occaecat enim eu. Pariatur reprehenderit esse culpa ipsum cupidatat eu.",
+                  "text": "Veniam reprehenderit tempor fugiat adipisicing sint aliqua dolor cillum Lorem mollit est. Officia eu nisi esse Lorem officia laborum aute qui dolore veniam.",
                   "spans": []
                 }
               ],
@@ -477,18 +485,26 @@
             "slice_type": "cover",
             "items": [
               {
-                "ctaLabel": "seize seamless supply-chains",
+                "ctaLabel": "reinvent web-enabled portals",
                 "ctaLink": {
                   "link_type": "Web",
-                  "url": "http://twitter.com"
+                  "url": "http://google.com"
+                },
+                "ctaStyle": "Outline"
+              },
+              {
+                "ctaLabel": "enable scalable eyeballs",
+                "ctaLink": {
+                  "link_type": "Web",
+                  "url": "https://slicemachine.dev"
                 },
                 "ctaStyle": "Filled"
               },
               {
-                "ctaLabel": "target global systems",
+                "ctaLabel": "reinvent leading-edge e-markets",
                 "ctaLink": {
                   "link_type": "Web",
-                  "url": "https://prismic.io"
+                  "url": "http://twitter.com"
                 },
                 "ctaStyle": "Filled"
               }
@@ -503,18 +519,18 @@
                 "copyright": null,
                 "url": "https://images.prismic.io/slices-example-nuxt/48a00ca6-db07-4a2f-91ed-afe60db0ccca_image-secondary.png?w=2000&h=1000&fit=crop"
               },
-              "tagline": "benchmark next-generation convergence",
+              "tagline": "cultivate enterprise communities",
               "title": [
                 {
                   "type": "heading2",
-                  "text": "Exploit magnetic technologies",
+                  "text": "Evolve B2B experiences",
                   "spans": []
                 }
               ],
               "text": [
                 {
                   "type": "paragraph",
-                  "text": "Pariatur exercitation id enim est et reprehenderit ipsum. Nostrud voluptate dolor veniam.",
+                  "text": "Id labore exercitation sunt ea labore aliqua aliquip est. Do cupidatat sunt elit ex velit elit duis nostrud ullamco sunt ullamco voluptate dolore in aute.",
                   "spans": []
                 }
               ],
@@ -527,31 +543,7 @@
             "slice_type": "cover",
             "items": [
               {
-                "ctaLabel": "transition cross-platform initiatives",
-                "ctaLink": {
-                  "link_type": "Web",
-                  "url": "http://twitter.com"
-                },
-                "ctaStyle": "Outline"
-              },
-              {
-                "ctaLabel": "visualize end-to-end experiences",
-                "ctaLink": {
-                  "link_type": "Web",
-                  "url": "https://slicemachine.dev"
-                },
-                "ctaStyle": "Filled"
-              },
-              {
-                "ctaLabel": "orchestrate holistic infrastructures",
-                "ctaLink": {
-                  "link_type": "Web",
-                  "url": "http://twitter.com"
-                },
-                "ctaStyle": "Filled"
-              },
-              {
-                "ctaLabel": "monetize front-end systems",
+                "ctaLabel": "reinvent plug-and-play infomediaries",
                 "ctaLink": {
                   "link_type": "Web",
                   "url": "https://prismic.io"
@@ -559,12 +551,36 @@
                 "ctaStyle": "Filled"
               },
               {
-                "ctaLabel": "embrace best-of-breed schemas",
+                "ctaLabel": "synthesize sticky paradigms",
                 "ctaLink": {
                   "link_type": "Web",
                   "url": "https://slicemachine.dev"
                 },
+                "ctaStyle": "Filled"
+              },
+              {
+                "ctaLabel": "redefine revolutionary vortals",
+                "ctaLink": {
+                  "link_type": "Web",
+                  "url": "https://prismic.io"
+                },
                 "ctaStyle": "Outline"
+              },
+              {
+                "ctaLabel": "productize dynamic experiences",
+                "ctaLink": {
+                  "link_type": "Web",
+                  "url": "https://prismic.io"
+                },
+                "ctaStyle": "Filled"
+              },
+              {
+                "ctaLabel": "revolutionize seamless applications",
+                "ctaLink": {
+                  "link_type": "Web",
+                  "url": "https://slicemachine.dev"
+                },
+                "ctaStyle": "Filled"
               }
             ],
             "primary": {
@@ -577,22 +593,22 @@
                 "copyright": null,
                 "url": "https://images.prismic.io/slices-example-nuxt/48a00ca6-db07-4a2f-91ed-afe60db0ccca_image-secondary.png?w=2000&h=1000&fit=crop"
               },
-              "tagline": "transition world-class e-business",
+              "tagline": "benchmark virtual e-business",
               "title": [
                 {
                   "type": "heading2",
-                  "text": "Synergize B2B infomediaries",
+                  "text": "Exploit visionary convergence",
                   "spans": []
                 }
               ],
               "text": [
                 {
                   "type": "paragraph",
-                  "text": "Lorem enim reprehenderit ea amet cillum velit proident sit ipsum proident velit ex labore sunt cillum. Ad ipsum voluptate ipsum amet deserunt ad sunt aliquip cupidatat ullamco sit nulla. Veniam voluptate consectetur sunt excepteur.",
+                  "text": "Proident non sint aliquip dolor Lorem reprehenderit et nisi in aliqua.",
                   "spans": []
                 }
               ],
-              "top": false
+              "top": true
             }
           }
         },
@@ -602,24 +618,24 @@
         },
         "screenshotPaths": {
           "full": {
-            "path": "/Users/samuelhorn/repos/slices-example-nuxt/.slicemachine/assets/slices/Cover/full/preview.png",
-            "width": 800,
-            "height": 560
+            "path": "/Users/nouhachhih/Documents/newscreenshots/nuxt-starter-slices-updatesscreenshots/slices/Cover/full/preview.png",
+            "width": 2880,
+            "height": 1442
           },
           "contained": {
-            "path": "/Users/samuelhorn/repos/slices-example-nuxt/.slicemachine/assets/slices/Cover/contained/preview.png",
-            "width": 800,
-            "height": 840
+            "path": "/Users/nouhachhih/Documents/newscreenshots/nuxt-starter-slices-updatesscreenshots/slices/Cover/contained/preview.png",
+            "width": 2880,
+            "height": 1444
           },
           "fullSecondary": {
-            "path": "/Users/samuelhorn/repos/slices-example-nuxt/.slicemachine/assets/slices/Cover/fullSecondary/preview.png",
-            "width": 800,
-            "height": 560
+            "path": "/Users/nouhachhih/Documents/newscreenshots/nuxt-starter-slices-updatesscreenshots/slices/Cover/fullSecondary/preview.png",
+            "width": 2876,
+            "height": 1438
           },
           "containedSecondary": {
-            "path": "/Users/samuelhorn/repos/slices-example-nuxt/.slicemachine/assets/slices/Cover/containedSecondary/preview.png",
+            "path": "/Users/nouhachhih/Documents/newscreenshots/nuxt-starter-slices-updatesscreenshots/.slicemachine/assets/slices/Cover/containedSecondary/preview.png",
             "width": 800,
-            "height": 840
+            "height": 768
           }
         }
       },
@@ -701,7 +717,8 @@
                   "config": {
                     "label": "Call to action link",
                     "placeholder": "",
-                    "allowTargetBlank": false
+                    "allowTargetBlank": false,
+                    "select": null
                   },
                   "type": "Link"
                 },
@@ -712,7 +729,8 @@
                   },
                   "type": "Text"
                 }
-              }
+              },
+              "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
             },
             {
               "id": "centered",
@@ -781,7 +799,8 @@
                   "config": {
                     "label": "Call to action link",
                     "placeholder": "",
-                    "allowTargetBlank": false
+                    "allowTargetBlank": false,
+                    "select": null
                   },
                   "type": "Link"
                 },
@@ -792,7 +811,8 @@
                   },
                   "type": "Text"
                 }
-              }
+              },
+              "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
             },
             {
               "id": "leftSecondary",
@@ -861,7 +881,8 @@
                   "config": {
                     "label": "Call to action link",
                     "placeholder": "",
-                    "allowTargetBlank": false
+                    "allowTargetBlank": false,
+                    "select": null
                   },
                   "type": "Link"
                 },
@@ -872,7 +893,8 @@
                   },
                   "type": "Text"
                 }
-              }
+              },
+              "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
             },
             {
               "id": "centeredSecondary",
@@ -941,7 +963,8 @@
                   "config": {
                     "label": "Call to action link",
                     "placeholder": "",
-                    "allowTargetBlank": false
+                    "allowTargetBlank": false,
+                    "select": null
                   },
                   "type": "Link"
                 },
@@ -952,7 +975,8 @@
                   },
                   "type": "Text"
                 }
-              }
+              },
+              "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
             }
           ]
         },
@@ -970,27 +994,27 @@
                   },
                   "alt": "Placeholder image",
                   "copyright": null,
-                  "url": "https://images.unsplash.com/photo-1547394765-185e1e68f34e?w=128&h=128&fit=crop"
+                  "url": "https://images.unsplash.com/photo-1586952518485-11b180e92764?w=128&h=128&fit=crop"
                 },
                 "title": [
                   {
                     "type": "heading3",
-                    "text": "Syndicate bricks-and-clicks metrics",
+                    "text": "Redefine next-generation e-tailers",
                     "spans": []
                   }
                 ],
                 "text": [
                   {
                     "type": "paragraph",
-                    "text": "Tempor ullamco nulla pariatur nulla esse esse aute aliqua reprehenderit magna Lorem ad in. Est culpa labore sint do aliqua fugiat elit excepteur sint id deserunt laboris anim mollit cillum.",
+                    "text": "Eiusmod non proident deserunt ut officia culpa esse culpa do. Sint ad aliqua dolor sunt eiusmod. Do pariatur nulla Lorem do.",
                     "spans": []
                   }
                 ],
                 "ctaLink": {
                   "link_type": "Web",
-                  "url": "http://twitter.com"
+                  "url": "http://google.com"
                 },
-                "ctaLabel": "synergize cutting-edge web-readiness"
+                "ctaLabel": "revolutionize extensible mindshare"
               },
               {
                 "image": {
@@ -1000,19 +1024,19 @@
                   },
                   "alt": "Placeholder image",
                   "copyright": null,
-                  "url": "https://images.unsplash.com/photo-1494173853739-c21f58b16055?w=128&h=128&fit=crop"
+                  "url": "https://images.unsplash.com/photo-1579931794097-0ad001e51edb?w=128&h=128&fit=crop"
                 },
                 "title": [
                   {
                     "type": "heading3",
-                    "text": "Revolutionize leading-edge blockchains",
+                    "text": "Reinvent B2B metrics",
                     "spans": []
                   }
                 ],
                 "text": [
                   {
                     "type": "paragraph",
-                    "text": "Non laborum laboris ut non ut esse. In aute pariatur in fugiat adipisicing voluptate in sit est Lorem ex dolor amet mollit.",
+                    "text": "Consectetur enim esse fugiat occaecat.",
                     "spans": []
                   }
                 ],
@@ -1020,52 +1044,22 @@
                   "link_type": "Web",
                   "url": "http://twitter.com"
                 },
-                "ctaLabel": "repurpose cutting-edge metrics"
-              },
-              {
-                "image": {
-                  "dimensions": {
-                    "width": 128,
-                    "height": 128
-                  },
-                  "alt": "Placeholder image",
-                  "copyright": null,
-                  "url": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?w=128&h=128&fit=crop"
-                },
-                "title": [
-                  {
-                    "type": "heading3",
-                    "text": "Harness robust convergence",
-                    "spans": []
-                  }
-                ],
-                "text": [
-                  {
-                    "type": "paragraph",
-                    "text": "Enim proident ex dolor dolor fugiat ut.",
-                    "spans": []
-                  }
-                ],
-                "ctaLink": {
-                  "link_type": "Web",
-                  "url": "https://slicemachine.dev"
-                },
-                "ctaLabel": "syndicate world-class e-markets"
+                "ctaLabel": "implement bricks-and-clicks communities"
               }
             ],
             "primary": {
-              "tagline": "productize next-generation technologies",
+              "tagline": "unleash one-to-one ROI",
               "title": [
                 {
                   "type": "heading2",
-                  "text": "Architect seamless convergence",
+                  "text": "Deliver sticky ROI",
                   "spans": []
                 }
               ],
               "text": [
                 {
                   "type": "paragraph",
-                  "text": "Id id mollit ad. Eu id do exercitation minim. Cillum velit laborum consectetur dolor amet id eu eu consectetur mollit pariatur.",
+                  "text": "Consectetur elit aliqua Lorem anim aliquip sunt magna excepteur sit quis pariatur officia ea nisi laboris.",
                   "spans": []
                 }
               ]
@@ -1084,19 +1078,19 @@
                   },
                   "alt": "Placeholder image",
                   "copyright": null,
-                  "url": "https://images.unsplash.com/photo-1576662712957-9c79ae1280f8?w=300&h=300&fit=crop"
+                  "url": "https://images.unsplash.com/photo-1596195689404-24d8a8d1c6ea?w=300&h=300&fit=crop"
                 },
                 "title": [
                   {
                     "type": "heading3",
-                    "text": "Unleash granular communities",
+                    "text": "Syndicate B2B synergies",
                     "spans": []
                   }
                 ],
                 "text": [
                   {
                     "type": "paragraph",
-                    "text": "Ut tempor enim ad do esse mollit dolore anim enim nulla tempor.",
+                    "text": "Ullamco eiusmod ea cupidatat enim amet et cillum officia aliquip consectetur incididunt qui pariatur.",
                     "spans": []
                   }
                 ],
@@ -1104,7 +1098,7 @@
                   "link_type": "Web",
                   "url": "https://slicemachine.dev"
                 },
-                "ctaLabel": "leverage mission-critical content"
+                "ctaLabel": "envisioneer one-to-one ROI"
               },
               {
                 "image": {
@@ -1114,27 +1108,27 @@
                   },
                   "alt": "Placeholder image",
                   "copyright": null,
-                  "url": "https://images.unsplash.com/photo-1471897488648-5eae4ac6686b?w=300&h=300&fit=crop"
+                  "url": "https://images.unsplash.com/photo-1600804931749-2da4ce26c869?w=300&h=300&fit=crop"
                 },
                 "title": [
                   {
                     "type": "heading3",
-                    "text": "Leverage back-end experiences",
+                    "text": "Benchmark user-centric e-business",
                     "spans": []
                   }
                 ],
                 "text": [
                   {
                     "type": "paragraph",
-                    "text": "Duis voluptate excepteur sunt culpa veniam in consectetur tempor nostrud. Elit ad elit adipisicing do consequat anim mollit ex. Laborum ullamco mollit eu consectetur consequat exercitation incididunt amet.",
+                    "text": "Dolore fugiat ullamco occaecat exercitation ut velit id ex culpa. Nulla incididunt non nostrud reprehenderit incididunt deserunt officia qui in cillum ullamco deserunt fugiat. Ea ad et Lorem cillum aliqua velit.",
                     "spans": []
                   }
                 ],
                 "ctaLink": {
                   "link_type": "Web",
-                  "url": "http://twitter.com"
+                  "url": "http://google.com"
                 },
-                "ctaLabel": "strategize frictionless synergies"
+                "ctaLabel": "evolve compelling metrics"
               },
               {
                 "image": {
@@ -1144,27 +1138,27 @@
                   },
                   "alt": "Placeholder image",
                   "copyright": null,
-                  "url": "https://images.unsplash.com/photo-1587613865763-4b8b0d19e8ab?w=300&h=300&fit=crop"
+                  "url": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?w=300&h=300&fit=crop"
                 },
                 "title": [
                   {
                     "type": "heading3",
-                    "text": "Engage virtual e-tailers",
+                    "text": "Drive leading-edge web-readiness",
                     "spans": []
                   }
                 ],
                 "text": [
                   {
                     "type": "paragraph",
-                    "text": "Qui cillum reprehenderit qui deserunt magna nisi proident dolore qui. Sit ad minim in duis magna anim non voluptate voluptate fugiat proident velit ad ex. Labore sunt aute sit esse sint nostrud officia do ea in.",
+                    "text": "Non laborum anim tempor ea. Fugiat labore dolore mollit consectetur nisi irure velit adipisicing aliqua eiusmod Lorem id. Aute commodo veniam ullamco eu pariatur voluptate ut sunt reprehenderit sint proident voluptate adipisicing tempor.",
                     "spans": []
                   }
                 ],
                 "ctaLink": {
                   "link_type": "Web",
-                  "url": "http://twitter.com"
+                  "url": "http://google.com"
                 },
-                "ctaLabel": "reinvent visionary vortals"
+                "ctaLabel": "whiteboard robust e-commerce"
               },
               {
                 "image": {
@@ -1174,19 +1168,19 @@
                   },
                   "alt": "Placeholder image",
                   "copyright": null,
-                  "url": "https://images.unsplash.com/photo-1587613865763-4b8b0d19e8ab?w=300&h=300&fit=crop"
+                  "url": "https://images.unsplash.com/photo-1547394765-185e1e68f34e?w=300&h=300&fit=crop"
                 },
                 "title": [
                   {
                     "type": "heading3",
-                    "text": "Maximize enterprise e-services",
+                    "text": "Mesh integrated partnerships",
                     "spans": []
                   }
                 ],
                 "text": [
                   {
                     "type": "paragraph",
-                    "text": "Nulla laborum aliquip culpa sunt.",
+                    "text": "Enim anim excepteur mollit pariatur dolore excepteur deserunt officia elit in id excepteur consectetur ad. Aute velit amet elit magna nisi cillum consequat consectetur consequat ex.",
                     "spans": []
                   }
                 ],
@@ -1194,22 +1188,22 @@
                   "link_type": "Web",
                   "url": "https://prismic.io"
                 },
-                "ctaLabel": "streamline extensible relationships"
+                "ctaLabel": "matrix user-centric vortals"
               }
             ],
             "primary": {
-              "tagline": "synthesize dot-com vortals",
+              "tagline": "leverage robust architectures",
               "title": [
                 {
                   "type": "heading2",
-                  "text": "Grow compelling e-tailers",
+                  "text": "Brand extensible communities",
                   "spans": []
                 }
               ],
               "text": [
                 {
                   "type": "paragraph",
-                  "text": "Labore quis minim labore laborum aliqua dolore.",
+                  "text": "Proident eiusmod nisi in nisi dolor aliqua exercitation nisi laboris irure minim cillum nisi reprehenderit proident.",
                   "spans": []
                 }
               ]
@@ -1228,27 +1222,57 @@
                   },
                   "alt": "Placeholder image",
                   "copyright": null,
+                  "url": "https://images.unsplash.com/photo-1589652717521-10c0d092dea9?w=300&h=300&fit=crop"
+                },
+                "title": [
+                  {
+                    "type": "heading3",
+                    "text": "Engage killer schemas",
+                    "spans": []
+                  }
+                ],
+                "text": [
+                  {
+                    "type": "paragraph",
+                    "text": "Consequat eu voluptate nostrud eiusmod minim voluptate ut cupidatat incididunt adipisicing dolor.",
+                    "spans": []
+                  }
+                ],
+                "ctaLink": {
+                  "link_type": "Web",
+                  "url": "https://prismic.io"
+                },
+                "ctaLabel": "leverage mission-critical infomediaries"
+              },
+              {
+                "image": {
+                  "dimensions": {
+                    "width": 300,
+                    "height": 300
+                  },
+                  "alt": "Placeholder image",
+                  "copyright": null,
                   "url": "https://images.unsplash.com/photo-1607582278043-57198ac8da43?w=300&h=300&fit=crop"
                 },
                 "title": [
                   {
                     "type": "heading3",
-                    "text": "Leverage global content",
+                    "text": "Optimize proactive synergies",
                     "spans": []
                   }
                 ],
                 "text": [
                   {
                     "type": "paragraph",
-                    "text": "Aliquip dolore tempor cupidatat labore. Sunt quis magna mollit. Aute id nulla nostrud laborum cupidatat aliqua adipisicing amet labore.",
+                    "text": "Cillum pariatur nisi non in nulla tempor nostrud esse nisi eiusmod ea esse eiusmod. Mollit nisi nisi sunt veniam cupidatat in ut dolore id Lorem. Incididunt consectetur veniam irure et tempor.",
                     "spans": []
                   }
                 ],
                 "ctaLink": {
                   "link_type": "Web",
-                  "url": "http://google.com"
+                  "url": "https://slicemachine.dev"
                 },
-                "ctaLabel": "productize B2C platforms"
+                "ctaLabel": "strategize visionary deliverables"
               },
               {
                 "image": {
@@ -1258,19 +1282,19 @@
                   },
                   "alt": "Placeholder image",
                   "copyright": null,
-                  "url": "https://images.unsplash.com/photo-1448932223592-d1fc686e76ea?w=300&h=300&fit=crop"
+                  "url": "https://images.unsplash.com/photo-1589321599763-d66926c29613?w=300&h=300&fit=crop"
                 },
                 "title": [
                   {
                     "type": "heading3",
-                    "text": "Target distributed web services",
+                    "text": "Whiteboard proactive experiences",
                     "spans": []
                   }
                 ],
                 "text": [
                   {
                     "type": "paragraph",
-                    "text": "Magna pariatur nostrud reprehenderit.",
+                    "text": "Id ut ullamco pariatur.",
                     "spans": []
                   }
                 ],
@@ -1278,52 +1302,22 @@
                   "link_type": "Web",
                   "url": "http://google.com"
                 },
-                "ctaLabel": "unleash dot-com e-tailers"
-              },
-              {
-                "image": {
-                  "dimensions": {
-                    "width": 300,
-                    "height": 300
-                  },
-                  "alt": "Placeholder image",
-                  "copyright": null,
-                  "url": "https://images.unsplash.com/photo-1537498425277-c283d32ef9db?w=300&h=300&fit=crop"
-                },
-                "title": [
-                  {
-                    "type": "heading3",
-                    "text": "Embrace killer schemas",
-                    "spans": []
-                  }
-                ],
-                "text": [
-                  {
-                    "type": "paragraph",
-                    "text": "Aliqua do excepteur incididunt proident occaecat ipsum ipsum laborum occaecat ullamco adipisicing nisi laboris. Duis ea labore et ut est dolore ullamco ad cillum reprehenderit eu culpa anim.",
-                    "spans": []
-                  }
-                ],
-                "ctaLink": {
-                  "link_type": "Web",
-                  "url": "http://google.com"
-                },
-                "ctaLabel": "benchmark impactful bandwidth"
+                "ctaLabel": "benchmark innovative convergence"
               }
             ],
             "primary": {
-              "tagline": "generate integrated partnerships",
+              "tagline": "transform distributed convergence",
               "title": [
                 {
                   "type": "heading2",
-                  "text": "Scale innovative methodologies",
+                  "text": "Drive one-to-one e-business",
                   "spans": []
                 }
               ],
               "text": [
                 {
                   "type": "paragraph",
-                  "text": "Eu cillum fugiat non duis.",
+                  "text": "Anim duis incididunt tempor ex deserunt quis enim veniam dolor ullamco incididunt. Mollit nulla quis deserunt Lorem cillum Lorem adipisicing sunt. Tempor do mollit officia nisi laborum laborum.",
                   "spans": []
                 }
               ]
@@ -1342,27 +1336,87 @@
                   },
                   "alt": "Placeholder image",
                   "copyright": null,
+                  "url": "https://images.unsplash.com/photo-1596195689404-24d8a8d1c6ea?w=300&h=300&fit=crop"
+                },
+                "title": [
+                  {
+                    "type": "heading3",
+                    "text": "Deploy frictionless convergence",
+                    "spans": []
+                  }
+                ],
+                "text": [
+                  {
+                    "type": "paragraph",
+                    "text": "Occaecat ullamco aute adipisicing eiusmod consequat dolor est adipisicing. Ea nisi officia duis eiusmod nisi enim sint officia occaecat aute culpa est deserunt dolore fugiat.",
+                    "spans": []
+                  }
+                ],
+                "ctaLink": {
+                  "link_type": "Web",
+                  "url": "https://prismic.io"
+                },
+                "ctaLabel": "aggregate one-to-one e-tailers"
+              },
+              {
+                "image": {
+                  "dimensions": {
+                    "width": 300,
+                    "height": 300
+                  },
+                  "alt": "Placeholder image",
+                  "copyright": null,
+                  "url": "https://images.unsplash.com/photo-1494173853739-c21f58b16055?w=300&h=300&fit=crop"
+                },
+                "title": [
+                  {
+                    "type": "heading3",
+                    "text": "Evolve real-time vortals",
+                    "spans": []
+                  }
+                ],
+                "text": [
+                  {
+                    "type": "paragraph",
+                    "text": "Reprehenderit amet dolor ullamco sunt fugiat laboris consectetur nulla voluptate sint id do ex laboris commodo. Voluptate qui in ex officia pariatur occaecat labore anim eu aliqua labore tempor. Voluptate aliquip incididunt amet sunt in irure nisi aliquip occaecat excepteur.",
+                    "spans": []
+                  }
+                ],
+                "ctaLink": {
+                  "link_type": "Web",
+                  "url": "http://twitter.com"
+                },
+                "ctaLabel": "scale enterprise vortals"
+              },
+              {
+                "image": {
+                  "dimensions": {
+                    "width": 300,
+                    "height": 300
+                  },
+                  "alt": "Placeholder image",
+                  "copyright": null,
                   "url": "https://images.unsplash.com/photo-1600804931749-2da4ce26c869?w=300&h=300&fit=crop"
                 },
                 "title": [
                   {
                     "type": "heading3",
-                    "text": "Orchestrate cross-platform e-services",
+                    "text": "Harness real-time blockchains",
                     "spans": []
                   }
                 ],
                 "text": [
                   {
                     "type": "paragraph",
-                    "text": "Qui cupidatat exercitation voluptate proident.",
+                    "text": "Est irure aute id pariatur id ullamco velit eu laboris. Fugiat enim minim aute eu officia exercitation irure sunt elit tempor fugiat commodo laborum commodo. Exercitation irure esse do incididunt proident deserunt qui anim irure anim.",
                     "spans": []
                   }
                 ],
                 "ctaLink": {
                   "link_type": "Web",
-                  "url": "http://google.com"
+                  "url": "http://twitter.com"
                 },
-                "ctaLabel": "engineer e-business users"
+                "ctaLabel": "target leading-edge e-business"
               },
               {
                 "image": {
@@ -1372,27 +1426,27 @@
                   },
                   "alt": "Placeholder image",
                   "copyright": null,
-                  "url": "https://images.unsplash.com/photo-1571126770897-2d612d1f7b89?w=300&h=300&fit=crop"
+                  "url": "https://images.unsplash.com/photo-1576662712957-9c79ae1280f8?w=300&h=300&fit=crop"
                 },
                 "title": [
                   {
                     "type": "heading3",
-                    "text": "Utilize impactful synergies",
+                    "text": "Scale rich e-commerce",
                     "spans": []
                   }
                 ],
                 "text": [
                   {
                     "type": "paragraph",
-                    "text": "Ut veniam proident consectetur velit qui occaecat laborum eu ullamco cupidatat aliqua esse.",
+                    "text": "Enim laborum magna reprehenderit. Mollit incididunt consectetur do esse elit deserunt cillum ut ut laboris ad et culpa. Ullamco sunt exercitation ipsum labore eiusmod labore tempor.",
                     "spans": []
                   }
                 ],
                 "ctaLink": {
                   "link_type": "Web",
-                  "url": "http://google.com"
+                  "url": "https://prismic.io"
                 },
-                "ctaLabel": "reintermediate value-added applications"
+                "ctaLabel": "engage user-centric mindshare"
               },
               {
                 "image": {
@@ -1402,49 +1456,19 @@
                   },
                   "alt": "Placeholder image",
                   "copyright": null,
-                  "url": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=300&h=300&fit=crop"
+                  "url": "https://images.unsplash.com/photo-1587653915936-5623ea0b949a?w=300&h=300&fit=crop"
                 },
                 "title": [
                   {
                     "type": "heading3",
-                    "text": "Repurpose seamless schemas",
+                    "text": "Visualize turn-key web services",
                     "spans": []
                   }
                 ],
                 "text": [
                   {
                     "type": "paragraph",
-                    "text": "Sunt sunt aliquip aliqua ut mollit eiusmod mollit qui consectetur. Officia irure aute qui nisi deserunt velit Lorem excepteur deserunt id ut ipsum culpa anim pariatur. Commodo incididunt anim qui non sint cillum.",
-                    "spans": []
-                  }
-                ],
-                "ctaLink": {
-                  "link_type": "Web",
-                  "url": "http://google.com"
-                },
-                "ctaLabel": "enable clicks-and-mortar functionalities"
-              },
-              {
-                "image": {
-                  "dimensions": {
-                    "width": 300,
-                    "height": 300
-                  },
-                  "alt": "Placeholder image",
-                  "copyright": null,
-                  "url": "https://images.unsplash.com/photo-1591012911207-0dbac31f37da?w=300&h=300&fit=crop"
-                },
-                "title": [
-                  {
-                    "type": "heading3",
-                    "text": "Empower dynamic web-readiness",
-                    "spans": []
-                  }
-                ],
-                "text": [
-                  {
-                    "type": "paragraph",
-                    "text": "Consequat veniam voluptate velit voluptate adipisicing labore eu id culpa eu id est. Tempor duis cupidatat excepteur est irure irure incididunt ex laboris tempor veniam exercitation magna sunt. Minim est ex commodo ut mollit.",
+                    "text": "Id culpa Lorem ea dolor esse id fugiat aute pariatur proident. Ad enim ullamco enim eiusmod anim magna qui aute. Fugiat deserunt nisi sit ipsum fugiat aute labore.",
                     "spans": []
                   }
                 ],
@@ -1452,22 +1476,52 @@
                   "link_type": "Web",
                   "url": "https://slicemachine.dev"
                 },
-                "ctaLabel": "envisioneer granular applications"
+                "ctaLabel": "integrate mission-critical web services"
+              },
+              {
+                "image": {
+                  "dimensions": {
+                    "width": 300,
+                    "height": 300
+                  },
+                  "alt": "Placeholder image",
+                  "copyright": null,
+                  "url": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=300&h=300&fit=crop"
+                },
+                "title": [
+                  {
+                    "type": "heading3",
+                    "text": "Brand customized web-readiness",
+                    "spans": []
+                  }
+                ],
+                "text": [
+                  {
+                    "type": "paragraph",
+                    "text": "Amet est ut reprehenderit dolore nostrud magna dolore.",
+                    "spans": []
+                  }
+                ],
+                "ctaLink": {
+                  "link_type": "Web",
+                  "url": "https://prismic.io"
+                },
+                "ctaLabel": "cultivate value-added convergence"
               }
             ],
             "primary": {
-              "tagline": "visualize cutting-edge communities",
+              "tagline": "exploit extensible schemas",
               "title": [
                 {
                   "type": "heading2",
-                  "text": "Maximize holistic markets",
+                  "text": "Empower ubiquitous users",
                   "spans": []
                 }
               ],
               "text": [
                 {
                   "type": "paragraph",
-                  "text": "Nisi mollit ullamco sit. Dolore duis nulla dolor aliquip consectetur consequat aliqua dolore nostrud deserunt magna cupidatat nisi eiusmod amet. Minim ut elit duis reprehenderit nostrud sint laboris sit ipsum Lorem ea tempor sit anim mollit.",
+                  "text": "Proident consectetur commodo sint non consectetur.",
                   "spans": []
                 }
               ]
@@ -1480,24 +1534,24 @@
         },
         "screenshotPaths": {
           "left": {
-            "path": "/Users/samuelhorn/repos/slices-example-nuxt/.slicemachine/assets/slices/Features/left/preview.png",
-            "width": 800,
-            "height": 992
+            "path": "/Users/nouhachhih/Documents/newscreenshots/nuxt-starter-slices-updatesscreenshots/slices/Features/left/preview.png",
+            "width": 2872,
+            "height": 1138
           },
           "centered": {
-            "path": "/Users/samuelhorn/repos/slices-example-nuxt/.slicemachine/assets/slices/Features/centered/preview.png",
-            "width": 800,
-            "height": 1064
+            "path": "/Users/nouhachhih/Documents/newscreenshots/nuxt-starter-slices-updatesscreenshots/slices/Features/centered/preview.png",
+            "width": 2880,
+            "height": 1130
           },
           "leftSecondary": {
-            "path": "/Users/samuelhorn/repos/slices-example-nuxt/.slicemachine/assets/slices/Features/leftSecondary/preview.png",
-            "width": 800,
-            "height": 1008
+            "path": "/Users/nouhachhih/Documents/newscreenshots/nuxt-starter-slices-updatesscreenshots/slices/Features/leftSecondary/preview.png",
+            "width": 2880,
+            "height": 1050
           },
           "centeredSecondary": {
-            "path": "/Users/samuelhorn/repos/slices-example-nuxt/.slicemachine/assets/slices/Features/centeredSecondary/preview.png",
+            "path": "/Users/nouhachhih/Documents/newscreenshots/nuxt-starter-slices-updatesscreenshots/.slicemachine/assets/slices/Features/centeredSecondary/preview.png",
             "width": 800,
-            "height": 1136
+            "height": 1456
           }
         }
       },
@@ -1574,7 +1628,8 @@
                   "config": {
                     "label": "Call to action link",
                     "placeholder": "",
-                    "allowTargetBlank": false
+                    "allowTargetBlank": false,
+                    "select": null
                   },
                   "type": "Link"
                 },
@@ -1588,7 +1643,8 @@
                   "type": "Boolean"
                 }
               },
-              "items": {}
+              "items": {},
+              "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
             },
             {
               "id": "right",
@@ -1633,7 +1689,8 @@
                   "config": {
                     "label": "Call to action link",
                     "placeholder": "",
-                    "allowTargetBlank": false
+                    "allowTargetBlank": false,
+                    "select": null
                   },
                   "type": "Link"
                 },
@@ -1666,7 +1723,8 @@
                   "type": "Boolean"
                 }
               },
-              "items": {}
+              "items": {},
+              "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
             },
             {
               "id": "leftFull",
@@ -1722,7 +1780,8 @@
                   "config": {
                     "label": "Call to action link",
                     "placeholder": "",
-                    "allowTargetBlank": false
+                    "allowTargetBlank": false,
+                    "select": null
                   },
                   "type": "Link"
                 },
@@ -1736,7 +1795,8 @@
                   "type": "Boolean"
                 }
               },
-              "items": {}
+              "items": {},
+              "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
             },
             {
               "id": "rightFull",
@@ -1781,7 +1841,8 @@
                   "config": {
                     "label": "Call to action link",
                     "placeholder": "",
-                    "allowTargetBlank": false
+                    "allowTargetBlank": false,
+                    "select": null
                   },
                   "type": "Link"
                 },
@@ -1806,7 +1867,8 @@
                   "type": "Boolean"
                 }
               },
-              "items": {}
+              "items": {},
+              "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
             },
             {
               "id": "leftSecondary",
@@ -1870,7 +1932,8 @@
                   "config": {
                     "label": "Call to action link",
                     "placeholder": "",
-                    "allowTargetBlank": false
+                    "allowTargetBlank": false,
+                    "select": null
                   },
                   "type": "Link"
                 },
@@ -1884,7 +1947,8 @@
                   "type": "Boolean"
                 }
               },
-              "items": {}
+              "items": {},
+              "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
             },
             {
               "id": "rightSecondary",
@@ -1929,7 +1993,8 @@
                   "config": {
                     "label": "Call to action link",
                     "placeholder": "",
-                    "allowTargetBlank": false
+                    "allowTargetBlank": false,
+                    "select": null
                   },
                   "type": "Link"
                 },
@@ -1962,7 +2027,8 @@
                   "type": "Boolean"
                 }
               },
-              "items": {}
+              "items": {},
+              "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
             },
             {
               "id": "leftFullSecondary",
@@ -2018,7 +2084,8 @@
                   "config": {
                     "label": "Call to action link",
                     "placeholder": "",
-                    "allowTargetBlank": false
+                    "allowTargetBlank": false,
+                    "select": null
                   },
                   "type": "Link"
                 },
@@ -2032,7 +2099,8 @@
                   "type": "Boolean"
                 }
               },
-              "items": {}
+              "items": {},
+              "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
             },
             {
               "id": "rightFullSecondary",
@@ -2077,7 +2145,8 @@
                   "config": {
                     "label": "Call to action link",
                     "placeholder": "",
-                    "allowTargetBlank": false
+                    "allowTargetBlank": false,
+                    "select": null
                   },
                   "type": "Link"
                 },
@@ -2102,7 +2171,8 @@
                   "type": "Boolean"
                 }
               },
-              "items": {}
+              "items": {},
+              "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
             }
           ]
         },
@@ -2120,33 +2190,33 @@
                 },
                 "alt": "Placeholder image",
                 "copyright": null,
-                "url": "https://images.prismic.io/slices-example-nuxt/48a00ca6-db07-4a2f-91ed-afe60db0ccca_image-secondary.png?w=1000&h=1000&fit=crop"
+                "url": "https://images.prismic.io/slices-example-nuxt/88018c9e-897f-4a96-b5af-8cad835333f0_image-primary.png?w=1000&h=1000&fit=crop"
               },
               "video": {
                 "link_type": "media",
                 "url": "https://source.unsplash.com/daily"
               },
-              "tagline": "leverage bricks-and-clicks e-commerce",
+              "tagline": "whiteboard vertical e-services",
               "title": [
                 {
                   "type": "heading2",
-                  "text": "Leverage strategic e-business",
+                  "text": "Expedite one-to-one e-markets",
                   "spans": []
                 }
               ],
               "text": [
                 {
                   "type": "paragraph",
-                  "text": "Quis proident amet dolore laboris veniam in laborum elit elit duis quis nisi ipsum ex.",
+                  "text": "Adipisicing qui adipisicing nisi laborum ea esse sit dolore adipisicing occaecat.",
                   "spans": []
                 }
               ],
-              "ctaLabel": "empower global functionalities",
+              "ctaLabel": "generate granular web services",
               "ctaLink": {
                 "link_type": "Web",
-                "url": "https://slicemachine.dev"
+                "url": "http://twitter.com"
               },
-              "top": false
+              "top": true
             }
           },
           "right": {
@@ -2155,25 +2225,25 @@
             "slice_type": "image_and_text",
             "items": [],
             "primary": {
-              "tagline": "seize strategic schemas",
+              "tagline": "extend transparent models",
               "title": [
                 {
                   "type": "heading2",
-                  "text": "Drive B2C deliverables",
+                  "text": "Aggregate extensible relationships",
                   "spans": []
                 }
               ],
               "text": [
                 {
                   "type": "paragraph",
-                  "text": "Consequat ea minim deserunt officia aliquip tempor tempor aliquip consectetur excepteur anim laboris officia non irure. Ipsum anim minim ut eiusmod in ut eu sit excepteur reprehenderit consectetur ea ad.",
+                  "text": "Consectetur mollit minim mollit occaecat.",
                   "spans": []
                 }
               ],
-              "ctaLabel": "cultivate granular infrastructures",
+              "ctaLabel": "redefine e-business platforms",
               "ctaLink": {
                 "link_type": "Web",
-                "url": "https://slicemachine.dev"
+                "url": "http://twitter.com"
               },
               "image": {
                 "dimensions": {
@@ -2188,7 +2258,7 @@
                 "link_type": "media",
                 "url": "https://source.unsplash.com/daily"
               },
-              "top": true
+              "top": false
             }
           },
           "leftFull": {
@@ -2206,27 +2276,27 @@
                 "copyright": null,
                 "url": "https://images.prismic.io/slices-example-nuxt/48a00ca6-db07-4a2f-91ed-afe60db0ccca_image-secondary.png?w=1000&h=1000&fit=crop"
               },
-              "tagline": "engage intuitive bandwidth",
+              "tagline": "recontextualize out-of-the-box ROI",
               "title": [
                 {
                   "type": "heading2",
-                  "text": "Facilitate extensible relationships",
+                  "text": "Streamline bricks-and-clicks users",
                   "spans": []
                 }
               ],
               "text": [
                 {
                   "type": "paragraph",
-                  "text": "Reprehenderit sit excepteur laboris eiusmod.",
+                  "text": "Anim et et reprehenderit laborum laboris culpa. Anim ullamco ut minim laboris.",
                   "spans": []
                 }
               ],
-              "ctaLabel": "e-enable innovative niches",
+              "ctaLabel": "deploy B2C partnerships",
               "ctaLink": {
                 "link_type": "Web",
-                "url": "https://slicemachine.dev"
+                "url": "http://google.com"
               },
-              "top": true
+              "top": false
             }
           },
           "rightFull": {
@@ -2235,25 +2305,25 @@
             "slice_type": "image_and_text",
             "items": [],
             "primary": {
-              "tagline": "utilize B2C communities",
+              "tagline": "repurpose collaborative relationships",
               "title": [
                 {
                   "type": "heading2",
-                  "text": "Harness customized solutions",
+                  "text": "Productize leading-edge ROI",
                   "spans": []
                 }
               ],
               "text": [
                 {
                   "type": "paragraph",
-                  "text": "In officia qui nulla nisi exercitation irure. Tempor esse do velit. Aliquip do do ex aliqua.",
+                  "text": "Laborum magna veniam est exercitation sunt sunt irure consectetur do deserunt aute. Anim voluptate laborum irure commodo ut est. Cillum laboris nisi sunt excepteur amet ea Lorem voluptate ex sint velit fugiat adipisicing.",
                   "spans": []
                 }
               ],
-              "ctaLabel": "revolutionize wireless technologies",
+              "ctaLabel": "implement 24/365 synergies",
               "ctaLink": {
                 "link_type": "Web",
-                "url": "http://twitter.com"
+                "url": "https://prismic.io"
               },
               "image": {
                 "dimensions": {
@@ -2264,7 +2334,7 @@
                 "copyright": null,
                 "url": "https://images.prismic.io/slices-example-nuxt/48a00ca6-db07-4a2f-91ed-afe60db0ccca_image-secondary.png?w=1000&h=1000&fit=crop"
               },
-              "top": true
+              "top": false
             }
           },
           "leftSecondary": {
@@ -2286,27 +2356,27 @@
                 "link_type": "media",
                 "url": "https://source.unsplash.com/daily"
               },
-              "tagline": "syndicate synergistic functionalities",
+              "tagline": "streamline frictionless vortals",
               "title": [
                 {
                   "type": "heading2",
-                  "text": "Reinvent viral platforms",
+                  "text": "Iterate cutting-edge architectures",
                   "spans": []
                 }
               ],
               "text": [
                 {
                   "type": "paragraph",
-                  "text": "Minim aute aliqua incididunt mollit qui aliqua.",
+                  "text": "Mollit pariatur Lorem dolore ex incididunt est laborum ipsum tempor reprehenderit nostrud consequat est. Tempor enim qui labore sint magna ad irure irure.",
                   "spans": []
                 }
               ],
-              "ctaLabel": "evolve next-generation models",
+              "ctaLabel": "implement back-end functionalities",
               "ctaLink": {
                 "link_type": "Web",
-                "url": "http://google.com"
+                "url": "http://twitter.com"
               },
-              "top": true
+              "top": false
             }
           },
           "rightSecondary": {
@@ -2315,25 +2385,25 @@
             "slice_type": "image_and_text",
             "items": [],
             "primary": {
-              "tagline": "drive turn-key relationships",
+              "tagline": "incentivize intuitive web-readiness",
               "title": [
                 {
                   "type": "heading2",
-                  "text": "Incubate mission-critical ROI",
+                  "text": "Iterate 24/7 experiences",
                   "spans": []
                 }
               ],
               "text": [
                 {
                   "type": "paragraph",
-                  "text": "In non esse enim excepteur culpa sunt dolor labore ut adipisicing deserunt. Cupidatat culpa elit adipisicing enim magna eu laboris ea anim eu nulla quis reprehenderit eu eiusmod. Nulla proident aute irure ex irure ipsum voluptate.",
+                  "text": "Sit incididunt consectetur ut ipsum cupidatat sunt. Nostrud ea fugiat consequat occaecat enim proident.",
                   "spans": []
                 }
               ],
-              "ctaLabel": "architect enterprise e-markets",
+              "ctaLabel": "revolutionize bleeding-edge content",
               "ctaLink": {
                 "link_type": "Web",
-                "url": "https://slicemachine.dev"
+                "url": "http://google.com"
               },
               "image": {
                 "dimensions": {
@@ -2366,22 +2436,22 @@
                 "copyright": null,
                 "url": "https://images.prismic.io/slices-example-nuxt/88018c9e-897f-4a96-b5af-8cad835333f0_image-primary.png?w=1000&h=1000&fit=crop"
               },
-              "tagline": "scale seamless e-services",
+              "tagline": "engineer efficient users",
               "title": [
                 {
                   "type": "heading2",
-                  "text": "Enable bleeding-edge synergies",
+                  "text": "Recontextualize out-of-the-box platforms",
                   "spans": []
                 }
               ],
               "text": [
                 {
                   "type": "paragraph",
-                  "text": "Commodo consequat cillum nulla.",
+                  "text": "Ea Lorem fugiat tempor dolor incididunt reprehenderit velit nostrud laboris adipisicing consequat. Excepteur dolor deserunt id laboris mollit nisi. Consectetur ea adipisicing irure Lorem.",
                   "spans": []
                 }
               ],
-              "ctaLabel": "enable dynamic bandwidth",
+              "ctaLabel": "visualize bricks-and-clicks vortals",
               "ctaLink": {
                 "link_type": "Web",
                 "url": "https://slicemachine.dev"
@@ -2395,22 +2465,22 @@
             "slice_type": "image_and_text",
             "items": [],
             "primary": {
-              "tagline": "recontextualize clicks-and-mortar ROI",
+              "tagline": "utilize extensible technologies",
               "title": [
                 {
                   "type": "heading2",
-                  "text": "Deliver bleeding-edge models",
+                  "text": "Target web-enabled vortals",
                   "spans": []
                 }
               ],
               "text": [
                 {
                   "type": "paragraph",
-                  "text": "Amet ex adipisicing nostrud laboris anim irure culpa est nulla aute deserunt culpa ad sit sit.",
+                  "text": "Eu nostrud consequat nisi aute consequat sunt reprehenderit incididunt reprehenderit laboris mollit nisi aute ullamco esse. Pariatur exercitation nisi elit eu. Non pariatur in proident velit duis elit labore ad do ea qui incididunt adipisicing.",
                   "spans": []
                 }
               ],
-              "ctaLabel": "deploy one-to-one functionalities",
+              "ctaLabel": "facilitate dot-com users",
               "ctaLink": {
                 "link_type": "Web",
                 "url": "http://google.com"
@@ -2424,7 +2494,7 @@
                 "copyright": null,
                 "url": "https://images.prismic.io/slices-example-nuxt/88018c9e-897f-4a96-b5af-8cad835333f0_image-primary.png?w=1000&h=1000&fit=crop"
               },
-              "top": false
+              "top": true
             }
           }
         },
@@ -2434,44 +2504,44 @@
         },
         "screenshotPaths": {
           "left": {
-            "path": "/Users/samuelhorn/repos/slices-example-nuxt/.slicemachine/assets/slices/ImageAndText/left/preview.png",
-            "width": 800,
-            "height": 776
+            "path": "/Users/nouhachhih/Documents/newscreenshots/nuxt-starter-slices-updatesscreenshots/slices/ImageAndText/left/preview.png",
+            "width": 2880,
+            "height": 1438
           },
           "right": {
-            "path": "/Users/samuelhorn/repos/slices-example-nuxt/.slicemachine/assets/slices/ImageAndText/right/preview.png",
-            "width": 800,
-            "height": 752
+            "path": "/Users/nouhachhih/Documents/newscreenshots/nuxt-starter-slices-updatesscreenshots/slices/ImageAndText/right/preview.png",
+            "width": 2880,
+            "height": 1434
           },
           "leftFull": {
-            "path": "/Users/samuelhorn/repos/slices-example-nuxt/.slicemachine/assets/slices/ImageAndText/leftFull/preview.png",
+            "path": "/Users/nouhachhih/Documents/newscreenshots/nuxt-starter-slices-updatesscreenshots/.slicemachine/assets/slices/ImageAndText/leftFull/preview.png",
             "width": 800,
-            "height": 1104
+            "height": 1128
           },
           "rightFull": {
-            "path": "/Users/samuelhorn/repos/slices-example-nuxt/.slicemachine/assets/slices/ImageAndText/rightFull/preview.png",
+            "path": "/Users/nouhachhih/Documents/newscreenshots/nuxt-starter-slices-updatesscreenshots/.slicemachine/assets/slices/ImageAndText/rightFull/preview.png",
             "width": 800,
-            "height": 1128
+            "height": 1176
           },
           "leftSecondary": {
-            "path": "/Users/samuelhorn/repos/slices-example-nuxt/.slicemachine/assets/slices/ImageAndText/leftSecondary/preview.png",
+            "path": "/Users/nouhachhih/Documents/newscreenshots/nuxt-starter-slices-updatesscreenshots/.slicemachine/assets/slices/ImageAndText/leftSecondary/preview.png",
             "width": 800,
-            "height": 704
+            "height": 800
           },
           "rightSecondary": {
-            "path": "/Users/samuelhorn/repos/slices-example-nuxt/.slicemachine/assets/slices/ImageAndText/rightSecondary/preview.png",
+            "path": "/Users/nouhachhih/Documents/newscreenshots/nuxt-starter-slices-updatesscreenshots/.slicemachine/assets/slices/ImageAndText/rightSecondary/preview.png",
             "width": 800,
-            "height": 824
+            "height": 728
           },
           "leftFullSecondary": {
-            "path": "/Users/samuelhorn/repos/slices-example-nuxt/.slicemachine/assets/slices/ImageAndText/leftFullSecondary/preview.png",
+            "path": "/Users/nouhachhih/Documents/newscreenshots/nuxt-starter-slices-updatesscreenshots/.slicemachine/assets/slices/ImageAndText/leftFullSecondary/preview.png",
             "width": 800,
-            "height": 1104
+            "height": 1152
           },
           "rightFullSecondary": {
-            "path": "/Users/samuelhorn/repos/slices-example-nuxt/.slicemachine/assets/slices/ImageAndText/rightFullSecondary/preview.png",
+            "path": "/Users/nouhachhih/Documents/newscreenshots/nuxt-starter-slices-updatesscreenshots/.slicemachine/assets/slices/ImageAndText/rightFullSecondary/preview.png",
             "width": 800,
-            "height": 1128
+            "height": 1176
           }
         }
       },
@@ -2526,11 +2596,13 @@
                   "config": {
                     "label": "Link",
                     "placeholder": "",
-                    "allowTargetBlank": false
+                    "allowTargetBlank": false,
+                    "select": null
                   },
                   "type": "Link"
                 }
-              }
+              },
+              "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
             },
             {
               "id": "carousel",
@@ -2572,11 +2644,13 @@
                   "config": {
                     "label": "Link",
                     "placeholder": "",
-                    "allowTargetBlank": false
+                    "allowTargetBlank": false,
+                    "select": null
                   },
                   "type": "Link"
                 }
-              }
+              },
+              "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
             },
             {
               "id": "stackedSecondary",
@@ -2618,11 +2692,13 @@
                   "config": {
                     "label": "Link",
                     "placeholder": "",
-                    "allowTargetBlank": false
+                    "allowTargetBlank": false,
+                    "select": null
                   },
                   "type": "Link"
                 }
-              }
+              },
+              "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
             },
             {
               "id": "carouselSecondary",
@@ -2664,11 +2740,13 @@
                   "config": {
                     "label": "Link",
                     "placeholder": "",
-                    "allowTargetBlank": false
+                    "allowTargetBlank": false,
+                    "select": null
                   },
                   "type": "Link"
                 }
-              }
+              },
+              "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
             }
           ]
         },
@@ -2686,7 +2764,37 @@
                   },
                   "alt": "Placeholder image",
                   "copyright": null,
-                  "url": "https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?w=320&h=120&fit=crop"
+                  "url": "https://images.unsplash.com/photo-1448932223592-d1fc686e76ea?w=320&h=120&fit=crop"
+                },
+                "link": {
+                  "link_type": "Web",
+                  "url": "http://twitter.com"
+                }
+              },
+              {
+                "logo": {
+                  "dimensions": {
+                    "width": 320,
+                    "height": 120
+                  },
+                  "alt": "Placeholder image",
+                  "copyright": null,
+                  "url": "https://images.unsplash.com/photo-1537498425277-c283d32ef9db?w=320&h=120&fit=crop"
+                },
+                "link": {
+                  "link_type": "Web",
+                  "url": "https://prismic.io"
+                }
+              },
+              {
+                "logo": {
+                  "dimensions": {
+                    "width": 320,
+                    "height": 120
+                  },
+                  "alt": "Placeholder image",
+                  "copyright": null,
+                  "url": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?w=320&h=120&fit=crop"
                 },
                 "link": {
                   "link_type": "Web",
@@ -2701,50 +2809,20 @@
                   },
                   "alt": "Placeholder image",
                   "copyright": null,
-                  "url": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=320&h=120&fit=crop"
+                  "url": "https://images.unsplash.com/photo-1579931794097-0ad001e51edb?w=320&h=120&fit=crop"
                 },
                 "link": {
                   "link_type": "Web",
                   "url": "https://slicemachine.dev"
-                }
-              },
-              {
-                "logo": {
-                  "dimensions": {
-                    "width": 320,
-                    "height": 120
-                  },
-                  "alt": "Placeholder image",
-                  "copyright": null,
-                  "url": "https://images.unsplash.com/photo-1471897488648-5eae4ac6686b?w=320&h=120&fit=crop"
-                },
-                "link": {
-                  "link_type": "Web",
-                  "url": "https://slicemachine.dev"
-                }
-              },
-              {
-                "logo": {
-                  "dimensions": {
-                    "width": 320,
-                    "height": 120
-                  },
-                  "alt": "Placeholder image",
-                  "copyright": null,
-                  "url": "https://images.unsplash.com/photo-1494173853739-c21f58b16055?w=320&h=120&fit=crop"
-                },
-                "link": {
-                  "link_type": "Web",
-                  "url": "http://google.com"
                 }
               }
             ],
             "primary": {
-              "tagline": "reintermediate vertical metrics",
+              "tagline": "strategize vertical e-markets",
               "title": [
                 {
                   "type": "heading2",
-                  "text": "Grow one-to-one methodologies",
+                  "text": "Synthesize end-to-end e-tailers",
                   "spans": []
                 }
               ]
@@ -2763,7 +2841,7 @@
                   },
                   "alt": "Placeholder image",
                   "copyright": null,
-                  "url": "https://images.unsplash.com/photo-1587905069134-008460d7a636?w=320&h=120&fit=crop"
+                  "url": "https://images.unsplash.com/photo-1589652717521-10c0d092dea9?w=320&h=120&fit=crop"
                 },
                 "link": {
                   "link_type": "Web",
@@ -2778,20 +2856,20 @@
                   },
                   "alt": "Placeholder image",
                   "copyright": null,
-                  "url": "https://images.unsplash.com/photo-1560762484-813fc97650a0?w=320&h=120&fit=crop"
+                  "url": "https://images.unsplash.com/photo-1600804931749-2da4ce26c869?w=320&h=120&fit=crop"
                 },
                 "link": {
                   "link_type": "Web",
-                  "url": "http://google.com"
+                  "url": "http://twitter.com"
                 }
               }
             ],
             "primary": {
-              "tagline": "reintermediate global functionalities",
+              "tagline": "enhance strategic action-items",
               "title": [
                 {
                   "type": "heading2",
-                  "text": "Exploit world-class e-commerce",
+                  "text": "Revolutionize world-class methodologies",
                   "spans": []
                 }
               ]
@@ -2810,7 +2888,52 @@
                   },
                   "alt": "Placeholder image",
                   "copyright": null,
-                  "url": "https://images.unsplash.com/photo-1587614295999-6c1c13675117?w=320&h=120&fit=crop"
+                  "url": "https://images.unsplash.com/photo-1471897488648-5eae4ac6686b?w=320&h=120&fit=crop"
+                },
+                "link": {
+                  "link_type": "Web",
+                  "url": "https://prismic.io"
+                }
+              },
+              {
+                "logo": {
+                  "dimensions": {
+                    "width": 320,
+                    "height": 120
+                  },
+                  "alt": "Placeholder image",
+                  "copyright": null,
+                  "url": "https://images.unsplash.com/photo-1591012911207-0dbac31f37da?w=320&h=120&fit=crop"
+                },
+                "link": {
+                  "link_type": "Web",
+                  "url": "https://slicemachine.dev"
+                }
+              },
+              {
+                "logo": {
+                  "dimensions": {
+                    "width": 320,
+                    "height": 120
+                  },
+                  "alt": "Placeholder image",
+                  "copyright": null,
+                  "url": "https://images.unsplash.com/photo-1471897488648-5eae4ac6686b?w=320&h=120&fit=crop"
+                },
+                "link": {
+                  "link_type": "Web",
+                  "url": "https://prismic.io"
+                }
+              },
+              {
+                "logo": {
+                  "dimensions": {
+                    "width": 320,
+                    "height": 120
+                  },
+                  "alt": "Placeholder image",
+                  "copyright": null,
+                  "url": "https://images.unsplash.com/photo-1448932223592-d1fc686e76ea?w=320&h=120&fit=crop"
                 },
                 "link": {
                   "link_type": "Web",
@@ -2825,50 +2948,20 @@
                   },
                   "alt": "Placeholder image",
                   "copyright": null,
-                  "url": "https://images.unsplash.com/photo-1589321578146-4c1ba445cc88?w=320&h=120&fit=crop"
+                  "url": "https://images.unsplash.com/photo-1607582278043-57198ac8da43?w=320&h=120&fit=crop"
                 },
                 "link": {
                   "link_type": "Web",
-                  "url": "https://prismic.io"
-                }
-              },
-              {
-                "logo": {
-                  "dimensions": {
-                    "width": 320,
-                    "height": 120
-                  },
-                  "alt": "Placeholder image",
-                  "copyright": null,
-                  "url": "https://images.unsplash.com/photo-1504198070170-4ca53bb1c1fa?w=320&h=120&fit=crop"
-                },
-                "link": {
-                  "link_type": "Web",
-                  "url": "http://google.com"
-                }
-              },
-              {
-                "logo": {
-                  "dimensions": {
-                    "width": 320,
-                    "height": 120
-                  },
-                  "alt": "Placeholder image",
-                  "copyright": null,
-                  "url": "https://images.unsplash.com/photo-1587613865763-4b8b0d19e8ab?w=320&h=120&fit=crop"
-                },
-                "link": {
-                  "link_type": "Web",
-                  "url": "https://prismic.io"
+                  "url": "https://slicemachine.dev"
                 }
               }
             ],
             "primary": {
-              "tagline": "integrate B2C web services",
+              "tagline": "e-enable sexy ROI",
               "title": [
                 {
                   "type": "heading2",
-                  "text": "Streamline world-class blockchains",
+                  "text": "Transition innovative paradigms",
                   "spans": []
                 }
               ]
@@ -2887,7 +2980,22 @@
                   },
                   "alt": "Placeholder image",
                   "copyright": null,
-                  "url": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=320&h=120&fit=crop"
+                  "url": "https://images.unsplash.com/photo-1607582278043-57198ac8da43?w=320&h=120&fit=crop"
+                },
+                "link": {
+                  "link_type": "Web",
+                  "url": "https://prismic.io"
+                }
+              },
+              {
+                "logo": {
+                  "dimensions": {
+                    "width": 320,
+                    "height": 120
+                  },
+                  "alt": "Placeholder image",
+                  "copyright": null,
+                  "url": "https://images.unsplash.com/photo-1579931794097-0ad001e51edb?w=320&h=120&fit=crop"
                 },
                 "link": {
                   "link_type": "Web",
@@ -2902,20 +3010,20 @@
                   },
                   "alt": "Placeholder image",
                   "copyright": null,
-                  "url": "https://images.unsplash.com/photo-1587614295999-6c1c13675117?w=320&h=120&fit=crop"
+                  "url": "https://images.unsplash.com/photo-1560762484-813fc97650a0?w=320&h=120&fit=crop"
                 },
                 "link": {
                   "link_type": "Web",
-                  "url": "https://prismic.io"
+                  "url": "http://twitter.com"
                 }
               }
             ],
             "primary": {
-              "tagline": "productize 24/365 e-services",
+              "tagline": "evolve user-centric platforms",
               "title": [
                 {
                   "type": "heading2",
-                  "text": "Brand open-source infomediaries",
+                  "text": "Repurpose compelling solutions",
                   "spans": []
                 }
               ]
@@ -2928,22 +3036,22 @@
         },
         "screenshotPaths": {
           "stacked": {
-            "path": "/Users/samuelhorn/repos/slices-example-nuxt/.slicemachine/assets/slices/Logos/stacked/preview.png",
-            "width": 800,
-            "height": 391
+            "path": "/Users/nouhachhih/Documents/newscreenshots/nuxt-starter-slices-updatesscreenshots/slices/Logos/stacked/preview.png",
+            "width": 2878,
+            "height": 782
           },
           "carousel": {
-            "path": "/Users/samuelhorn/repos/slices-example-nuxt/.slicemachine/assets/slices/Logos/carousel/preview.png",
-            "width": 800,
-            "height": 391
+            "path": "/Users/nouhachhih/Documents/newscreenshots/nuxt-starter-slices-updatesscreenshots/slices/Logos/carousel/preview.png",
+            "width": 2880,
+            "height": 936
           },
           "stackedSecondary": {
-            "path": "/Users/samuelhorn/repos/slices-example-nuxt/.slicemachine/assets/slices/Logos/stackedSecondary/preview.png",
-            "width": 800,
-            "height": 431
+            "path": "/Users/nouhachhih/Documents/newscreenshots/nuxt-starter-slices-updatesscreenshots/slices/Logos/stackedSecondary/preview.png",
+            "width": 2876,
+            "height": 920
           },
           "carouselSecondary": {
-            "path": "/Users/samuelhorn/repos/slices-example-nuxt/.slicemachine/assets/slices/Logos/carouselSecondary/preview.png",
+            "path": "/Users/nouhachhih/Documents/newscreenshots/nuxt-starter-slices-updatesscreenshots/.slicemachine/assets/slices/Logos/carouselSecondary/preview.png",
             "width": 800,
             "height": 391
           }
@@ -3008,7 +3116,8 @@
                   },
                   "type": "Text"
                 }
-              }
+              },
+              "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
             },
             {
               "id": "center",
@@ -3058,7 +3167,8 @@
                   },
                   "type": "Text"
                 }
-              }
+              },
+              "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
             },
             {
               "id": "sideSecondary",
@@ -3108,7 +3218,8 @@
                   },
                   "type": "Text"
                 }
-              }
+              },
+              "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
             },
             {
               "id": "centerSecondary",
@@ -3158,7 +3269,8 @@
                   },
                   "type": "Text"
                 }
-              }
+              },
+              "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
             }
           ]
         },
@@ -3322,22 +3434,22 @@
         },
         "screenshotPaths": {
           "side": {
-            "path": "/Users/samuelhorn/repos/slices-example-nuxt/.slicemachine/assets/slices/Numbers/side/preview.png",
+            "path": "/Users/nouhachhih/Documents/newscreenshots/nuxt-starter-slices-updatesscreenshots/.slicemachine/assets/slices/Numbers/side/preview.png",
             "width": 800,
             "height": 518
           },
           "center": {
-            "path": "/Users/samuelhorn/repos/slices-example-nuxt/.slicemachine/assets/slices/Numbers/center/preview.png",
+            "path": "/Users/nouhachhih/Documents/newscreenshots/nuxt-starter-slices-updatesscreenshots/.slicemachine/assets/slices/Numbers/center/preview.png",
             "width": 800,
             "height": 543
           },
           "sideSecondary": {
-            "path": "/Users/samuelhorn/repos/slices-example-nuxt/.slicemachine/assets/slices/Numbers/sideSecondary/preview.png",
+            "path": "/Users/nouhachhih/Documents/newscreenshots/nuxt-starter-slices-updatesscreenshots/.slicemachine/assets/slices/Numbers/sideSecondary/preview.png",
             "width": 800,
             "height": 653
           },
           "centerSecondary": {
-            "path": "/Users/samuelhorn/repos/slices-example-nuxt/.slicemachine/assets/slices/Numbers/centerSecondary/preview.png",
+            "path": "/Users/nouhachhih/Documents/newscreenshots/nuxt-starter-slices-updatesscreenshots/.slicemachine/assets/slices/Numbers/centerSecondary/preview.png",
             "width": 800,
             "height": 631
           }
@@ -3412,7 +3524,8 @@
                   "config": {
                     "label": "Call to action link",
                     "placeholder": "",
-                    "allowTargetBlank": false
+                    "allowTargetBlank": false,
+                    "select": null
                   },
                   "type": "Link"
                 },
@@ -3423,7 +3536,8 @@
                   },
                   "type": "Text"
                 }
-              }
+              },
+              "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
             },
             {
               "id": "secondary",
@@ -3483,7 +3597,8 @@
                   "config": {
                     "label": "Call to action link",
                     "placeholder": "",
-                    "allowTargetBlank": false
+                    "allowTargetBlank": false,
+                    "select": null
                   },
                   "type": "Link"
                 },
@@ -3494,7 +3609,8 @@
                   },
                   "type": "Text"
                 }
-              }
+              },
+              "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
             }
           ]
         },
@@ -3810,14 +3926,14 @@
         },
         "screenshotPaths": {
           "primary": {
-            "path": "/Users/samuelhorn/repos/slices-example-nuxt/.slicemachine/assets/slices/Teasers/primary/preview.png",
-            "width": 800,
-            "height": 1666
+            "path": "/Users/nouhachhih/Documents/newscreenshots/nuxt-starter-slices-updatesscreenshots/slices/Teasers/primary/preview.png",
+            "width": 2876,
+            "height": 1428
           },
           "secondary": {
-            "path": "/Users/samuelhorn/repos/slices-example-nuxt/.slicemachine/assets/slices/Teasers/secondary/preview.png",
-            "width": 800,
-            "height": 1244
+            "path": "/Users/nouhachhih/Documents/newscreenshots/nuxt-starter-slices-updatesscreenshots/slices/Teasers/secondary/preview.png",
+            "width": 2876,
+            "height": 1370
           }
         }
       },
@@ -3900,7 +4016,8 @@
                   },
                   "type": "Text"
                 }
-              }
+              },
+              "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
             },
             {
               "id": "carousel",
@@ -3970,7 +4087,8 @@
                   },
                   "type": "Text"
                 }
-              }
+              },
+              "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
             },
             {
               "id": "stackedSecondary",
@@ -4040,7 +4158,8 @@
                   },
                   "type": "Text"
                 }
-              }
+              },
+              "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
             },
             {
               "id": "carouselSecondary",
@@ -4110,7 +4229,8 @@
                   },
                   "type": "Text"
                 }
-              }
+              },
+              "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
             }
           ]
         },
@@ -4558,24 +4678,24 @@
         },
         "screenshotPaths": {
           "stacked": {
-            "path": "/Users/samuelhorn/repos/slices-example-nuxt/.slicemachine/assets/slices/Testimonials/stacked/preview.png",
-            "width": 800,
-            "height": 1584
+            "path": "/Users/nouhachhih/Documents/newscreenshots/nuxt-starter-slices-updatesscreenshots/slices/Testimonials/stacked/preview.png",
+            "width": 1304,
+            "height": 958
           },
           "carousel": {
-            "path": "/Users/samuelhorn/repos/slices-example-nuxt/.slicemachine/assets/slices/Testimonials/carousel/preview.png",
+            "path": "/Users/nouhachhih/Documents/newscreenshots/nuxt-starter-slices-updatesscreenshots/.slicemachine/assets/slices/Testimonials/carousel/preview.png",
             "width": 800,
             "height": 932
           },
           "stackedSecondary": {
-            "path": "/Users/samuelhorn/repos/slices-example-nuxt/.slicemachine/assets/slices/Testimonials/stackedSecondary/preview.png",
-            "width": 800,
-            "height": 852
+            "path": "/Users/nouhachhih/Documents/newscreenshots/nuxt-starter-slices-updatesscreenshots/slices/Testimonials/stackedSecondary/preview.png",
+            "width": 2880,
+            "height": 1370
           },
           "carouselSecondary": {
-            "path": "/Users/samuelhorn/repos/slices-example-nuxt/.slicemachine/assets/slices/Testimonials/carouselSecondary/preview.png",
-            "width": 800,
-            "height": 832
+            "path": "/Users/nouhachhih/Documents/newscreenshots/nuxt-starter-slices-updatesscreenshots/slices/Testimonials/carouselSecondary/preview.png",
+            "width": 2880,
+            "height": 1376
           }
         }
       }

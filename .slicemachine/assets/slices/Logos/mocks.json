@@ -12,7 +12,37 @@
           },
           "alt": "Placeholder image",
           "copyright": null,
-          "url": "https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?w=320&h=120&fit=crop"
+          "url": "https://images.unsplash.com/photo-1448932223592-d1fc686e76ea?w=320&h=120&fit=crop"
+        },
+        "link": {
+          "link_type": "Web",
+          "url": "http://twitter.com"
+        }
+      },
+      {
+        "logo": {
+          "dimensions": {
+            "width": 320,
+            "height": 120
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1537498425277-c283d32ef9db?w=320&h=120&fit=crop"
+        },
+        "link": {
+          "link_type": "Web",
+          "url": "https://prismic.io"
+        }
+      },
+      {
+        "logo": {
+          "dimensions": {
+            "width": 320,
+            "height": 120
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?w=320&h=120&fit=crop"
         },
         "link": {
           "link_type": "Web",
@@ -27,50 +57,20 @@
           },
           "alt": "Placeholder image",
           "copyright": null,
-          "url": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=320&h=120&fit=crop"
+          "url": "https://images.unsplash.com/photo-1579931794097-0ad001e51edb?w=320&h=120&fit=crop"
         },
         "link": {
           "link_type": "Web",
           "url": "https://slicemachine.dev"
-        }
-      },
-      {
-        "logo": {
-          "dimensions": {
-            "width": 320,
-            "height": 120
-          },
-          "alt": "Placeholder image",
-          "copyright": null,
-          "url": "https://images.unsplash.com/photo-1471897488648-5eae4ac6686b?w=320&h=120&fit=crop"
-        },
-        "link": {
-          "link_type": "Web",
-          "url": "https://slicemachine.dev"
-        }
-      },
-      {
-        "logo": {
-          "dimensions": {
-            "width": 320,
-            "height": 120
-          },
-          "alt": "Placeholder image",
-          "copyright": null,
-          "url": "https://images.unsplash.com/photo-1494173853739-c21f58b16055?w=320&h=120&fit=crop"
-        },
-        "link": {
-          "link_type": "Web",
-          "url": "http://google.com"
         }
       }
     ],
     "primary": {
-      "tagline": "reintermediate vertical metrics",
+      "tagline": "strategize vertical e-markets",
       "title": [
         {
           "type": "heading2",
-          "text": "Grow one-to-one methodologies",
+          "text": "Synthesize end-to-end e-tailers",
           "spans": []
         }
       ]
@@ -89,7 +89,7 @@
           },
           "alt": "Placeholder image",
           "copyright": null,
-          "url": "https://images.unsplash.com/photo-1587905069134-008460d7a636?w=320&h=120&fit=crop"
+          "url": "https://images.unsplash.com/photo-1589652717521-10c0d092dea9?w=320&h=120&fit=crop"
         },
         "link": {
           "link_type": "Web",
@@ -104,20 +104,20 @@
           },
           "alt": "Placeholder image",
           "copyright": null,
-          "url": "https://images.unsplash.com/photo-1560762484-813fc97650a0?w=320&h=120&fit=crop"
+          "url": "https://images.unsplash.com/photo-1600804931749-2da4ce26c869?w=320&h=120&fit=crop"
         },
         "link": {
           "link_type": "Web",
-          "url": "http://google.com"
+          "url": "http://twitter.com"
         }
       }
     ],
     "primary": {
-      "tagline": "reintermediate global functionalities",
+      "tagline": "enhance strategic action-items",
       "title": [
         {
           "type": "heading2",
-          "text": "Exploit world-class e-commerce",
+          "text": "Revolutionize world-class methodologies",
           "spans": []
         }
       ]
@@ -136,7 +136,52 @@
           },
           "alt": "Placeholder image",
           "copyright": null,
-          "url": "https://images.unsplash.com/photo-1587614295999-6c1c13675117?w=320&h=120&fit=crop"
+          "url": "https://images.unsplash.com/photo-1471897488648-5eae4ac6686b?w=320&h=120&fit=crop"
+        },
+        "link": {
+          "link_type": "Web",
+          "url": "https://prismic.io"
+        }
+      },
+      {
+        "logo": {
+          "dimensions": {
+            "width": 320,
+            "height": 120
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1591012911207-0dbac31f37da?w=320&h=120&fit=crop"
+        },
+        "link": {
+          "link_type": "Web",
+          "url": "https://slicemachine.dev"
+        }
+      },
+      {
+        "logo": {
+          "dimensions": {
+            "width": 320,
+            "height": 120
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1471897488648-5eae4ac6686b?w=320&h=120&fit=crop"
+        },
+        "link": {
+          "link_type": "Web",
+          "url": "https://prismic.io"
+        }
+      },
+      {
+        "logo": {
+          "dimensions": {
+            "width": 320,
+            "height": 120
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1448932223592-d1fc686e76ea?w=320&h=120&fit=crop"
         },
         "link": {
           "link_type": "Web",
@@ -151,50 +196,20 @@
           },
           "alt": "Placeholder image",
           "copyright": null,
-          "url": "https://images.unsplash.com/photo-1589321578146-4c1ba445cc88?w=320&h=120&fit=crop"
+          "url": "https://images.unsplash.com/photo-1607582278043-57198ac8da43?w=320&h=120&fit=crop"
         },
         "link": {
           "link_type": "Web",
-          "url": "https://prismic.io"
-        }
-      },
-      {
-        "logo": {
-          "dimensions": {
-            "width": 320,
-            "height": 120
-          },
-          "alt": "Placeholder image",
-          "copyright": null,
-          "url": "https://images.unsplash.com/photo-1504198070170-4ca53bb1c1fa?w=320&h=120&fit=crop"
-        },
-        "link": {
-          "link_type": "Web",
-          "url": "http://google.com"
-        }
-      },
-      {
-        "logo": {
-          "dimensions": {
-            "width": 320,
-            "height": 120
-          },
-          "alt": "Placeholder image",
-          "copyright": null,
-          "url": "https://images.unsplash.com/photo-1587613865763-4b8b0d19e8ab?w=320&h=120&fit=crop"
-        },
-        "link": {
-          "link_type": "Web",
-          "url": "https://prismic.io"
+          "url": "https://slicemachine.dev"
         }
       }
     ],
     "primary": {
-      "tagline": "integrate B2C web services",
+      "tagline": "e-enable sexy ROI",
       "title": [
         {
           "type": "heading2",
-          "text": "Streamline world-class blockchains",
+          "text": "Transition innovative paradigms",
           "spans": []
         }
       ]
@@ -213,7 +228,22 @@
           },
           "alt": "Placeholder image",
           "copyright": null,
-          "url": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=320&h=120&fit=crop"
+          "url": "https://images.unsplash.com/photo-1607582278043-57198ac8da43?w=320&h=120&fit=crop"
+        },
+        "link": {
+          "link_type": "Web",
+          "url": "https://prismic.io"
+        }
+      },
+      {
+        "logo": {
+          "dimensions": {
+            "width": 320,
+            "height": 120
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1579931794097-0ad001e51edb?w=320&h=120&fit=crop"
         },
         "link": {
           "link_type": "Web",
@@ -228,20 +258,20 @@
           },
           "alt": "Placeholder image",
           "copyright": null,
-          "url": "https://images.unsplash.com/photo-1587614295999-6c1c13675117?w=320&h=120&fit=crop"
+          "url": "https://images.unsplash.com/photo-1560762484-813fc97650a0?w=320&h=120&fit=crop"
         },
         "link": {
           "link_type": "Web",
-          "url": "https://prismic.io"
+          "url": "http://twitter.com"
         }
       }
     ],
     "primary": {
-      "tagline": "productize 24/365 e-services",
+      "tagline": "evolve user-centric platforms",
       "title": [
         {
           "type": "heading2",
-          "text": "Brand open-source infomediaries",
+          "text": "Repurpose compelling solutions",
           "spans": []
         }
       ]

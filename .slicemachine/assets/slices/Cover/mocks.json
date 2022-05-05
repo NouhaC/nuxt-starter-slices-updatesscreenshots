@@ -5,18 +5,26 @@
     "slice_type": "cover",
     "items": [
       {
-        "ctaLabel": "innovate mission-critical content",
+        "ctaLabel": "monetize magnetic partnerships",
         "ctaLink": {
           "link_type": "Web",
-          "url": "http://google.com"
+          "url": "https://slicemachine.dev"
         },
         "ctaStyle": "Outline"
       },
       {
-        "ctaLabel": "leverage cross-media bandwidth",
+        "ctaLabel": "innovate holistic e-commerce",
         "ctaLink": {
           "link_type": "Web",
           "url": "http://twitter.com"
+        },
+        "ctaStyle": "Filled"
+      },
+      {
+        "ctaLabel": "disintermediate wireless e-markets",
+        "ctaLink": {
+          "link_type": "Web",
+          "url": "https://prismic.io"
         },
         "ctaStyle": "Filled"
       }
@@ -31,22 +39,22 @@
         "copyright": null,
         "url": "https://images.prismic.io/slices-example-nuxt/88018c9e-897f-4a96-b5af-8cad835333f0_image-primary.png?w=2000&h=1000&fit=crop"
       },
-      "tagline": "facilitate value-added action-items",
+      "tagline": "matrix virtual relationships",
       "title": [
         {
           "type": "heading2",
-          "text": "Reintermediate 24/365 e-commerce",
+          "text": "Enhance virtual deliverables",
           "spans": []
         }
       ],
       "text": [
         {
           "type": "paragraph",
-          "text": "Culpa consequat dolor ea est eu tempor excepteur sunt esse duis reprehenderit elit. Pariatur reprehenderit mollit et Lorem.",
+          "text": "Sunt eu occaecat tempor cupidatat quis laboris ipsum culpa quis cupidatat occaecat. Et sunt irure dolore excepteur eu minim culpa duis est ea incididunt et laboris.",
           "spans": []
         }
       ],
-      "top": false
+      "top": true
     }
   },
   {
@@ -55,15 +63,7 @@
     "slice_type": "cover",
     "items": [
       {
-        "ctaLabel": "synergize dynamic communities",
-        "ctaLink": {
-          "link_type": "Web",
-          "url": "http://google.com"
-        },
-        "ctaStyle": "Filled"
-      },
-      {
-        "ctaLabel": "implement intuitive channels",
+        "ctaLabel": "extend frictionless portals",
         "ctaLink": {
           "link_type": "Web",
           "url": "http://twitter.com"
@@ -71,23 +71,23 @@
         "ctaStyle": "Filled"
       },
       {
-        "ctaLabel": "extend one-to-one methodologies",
+        "ctaLabel": "disintermediate strategic communities",
         "ctaLink": {
           "link_type": "Web",
-          "url": "http://twitter.com"
+          "url": "http://google.com"
         },
         "ctaStyle": "Filled"
       },
       {
-        "ctaLabel": "grow 24/365 e-services",
+        "ctaLabel": "visualize synergistic eyeballs",
         "ctaLink": {
           "link_type": "Web",
-          "url": "http://google.com"
+          "url": "https://slicemachine.dev"
         },
         "ctaStyle": "Outline"
       },
       {
-        "ctaLabel": "generate proactive paradigms",
+        "ctaLabel": "optimize e-business methodologies",
         "ctaLink": {
           "link_type": "Web",
           "url": "http://google.com"
@@ -105,18 +105,18 @@
         "copyright": null,
         "url": "https://images.prismic.io/slices-example-nuxt/88018c9e-897f-4a96-b5af-8cad835333f0_image-primary.png?w=2000&h=1000&fit=crop"
       },
-      "tagline": "engineer efficient paradigms",
+      "tagline": "streamline granular web services",
       "title": [
         {
           "type": "heading2",
-          "text": "Unleash mission-critical blockchains",
+          "text": "Iterate leading-edge content",
           "spans": []
         }
       ],
       "text": [
         {
           "type": "paragraph",
-          "text": "Voluptate ullamco enim qui non magna consectetur voluptate. Labore commodo consectetur commodo ut ut minim ipsum velit reprehenderit pariatur occaecat non occaecat enim eu. Pariatur reprehenderit esse culpa ipsum cupidatat eu.",
+          "text": "Veniam reprehenderit tempor fugiat adipisicing sint aliqua dolor cillum Lorem mollit est. Officia eu nisi esse Lorem officia laborum aute qui dolore veniam.",
           "spans": []
         }
       ],
@@ -129,18 +129,26 @@
     "slice_type": "cover",
     "items": [
       {
-        "ctaLabel": "seize seamless supply-chains",
+        "ctaLabel": "reinvent web-enabled portals",
         "ctaLink": {
           "link_type": "Web",
-          "url": "http://twitter.com"
+          "url": "http://google.com"
+        },
+        "ctaStyle": "Outline"
+      },
+      {
+        "ctaLabel": "enable scalable eyeballs",
+        "ctaLink": {
+          "link_type": "Web",
+          "url": "https://slicemachine.dev"
         },
         "ctaStyle": "Filled"
       },
       {
-        "ctaLabel": "target global systems",
+        "ctaLabel": "reinvent leading-edge e-markets",
         "ctaLink": {
           "link_type": "Web",
-          "url": "https://prismic.io"
+          "url": "http://twitter.com"
         },
         "ctaStyle": "Filled"
       }
@@ -155,18 +163,18 @@
         "copyright": null,
         "url": "https://images.prismic.io/slices-example-nuxt/48a00ca6-db07-4a2f-91ed-afe60db0ccca_image-secondary.png?w=2000&h=1000&fit=crop"
       },
-      "tagline": "benchmark next-generation convergence",
+      "tagline": "cultivate enterprise communities",
       "title": [
         {
           "type": "heading2",
-          "text": "Exploit magnetic technologies",
+          "text": "Evolve B2B experiences",
           "spans": []
         }
       ],
       "text": [
         {
           "type": "paragraph",
-          "text": "Pariatur exercitation id enim est et reprehenderit ipsum. Nostrud voluptate dolor veniam.",
+          "text": "Id labore exercitation sunt ea labore aliqua aliquip est. Do cupidatat sunt elit ex velit elit duis nostrud ullamco sunt ullamco voluptate dolore in aute.",
           "spans": []
         }
       ],
@@ -179,31 +187,7 @@
     "slice_type": "cover",
     "items": [
       {
-        "ctaLabel": "transition cross-platform initiatives",
-        "ctaLink": {
-          "link_type": "Web",
-          "url": "http://twitter.com"
-        },
-        "ctaStyle": "Outline"
-      },
-      {
-        "ctaLabel": "visualize end-to-end experiences",
-        "ctaLink": {
-          "link_type": "Web",
-          "url": "https://slicemachine.dev"
-        },
-        "ctaStyle": "Filled"
-      },
-      {
-        "ctaLabel": "orchestrate holistic infrastructures",
-        "ctaLink": {
-          "link_type": "Web",
-          "url": "http://twitter.com"
-        },
-        "ctaStyle": "Filled"
-      },
-      {
-        "ctaLabel": "monetize front-end systems",
+        "ctaLabel": "reinvent plug-and-play infomediaries",
         "ctaLink": {
           "link_type": "Web",
           "url": "https://prismic.io"
@@ -211,12 +195,36 @@
         "ctaStyle": "Filled"
       },
       {
-        "ctaLabel": "embrace best-of-breed schemas",
+        "ctaLabel": "synthesize sticky paradigms",
         "ctaLink": {
           "link_type": "Web",
           "url": "https://slicemachine.dev"
         },
+        "ctaStyle": "Filled"
+      },
+      {
+        "ctaLabel": "redefine revolutionary vortals",
+        "ctaLink": {
+          "link_type": "Web",
+          "url": "https://prismic.io"
+        },
         "ctaStyle": "Outline"
+      },
+      {
+        "ctaLabel": "productize dynamic experiences",
+        "ctaLink": {
+          "link_type": "Web",
+          "url": "https://prismic.io"
+        },
+        "ctaStyle": "Filled"
+      },
+      {
+        "ctaLabel": "revolutionize seamless applications",
+        "ctaLink": {
+          "link_type": "Web",
+          "url": "https://slicemachine.dev"
+        },
+        "ctaStyle": "Filled"
       }
     ],
     "primary": {
@@ -229,22 +237,22 @@
         "copyright": null,
         "url": "https://images.prismic.io/slices-example-nuxt/48a00ca6-db07-4a2f-91ed-afe60db0ccca_image-secondary.png?w=2000&h=1000&fit=crop"
       },
-      "tagline": "transition world-class e-business",
+      "tagline": "benchmark virtual e-business",
       "title": [
         {
           "type": "heading2",
-          "text": "Synergize B2B infomediaries",
+          "text": "Exploit visionary convergence",
           "spans": []
         }
       ],
       "text": [
         {
           "type": "paragraph",
-          "text": "Lorem enim reprehenderit ea amet cillum velit proident sit ipsum proident velit ex labore sunt cillum. Ad ipsum voluptate ipsum amet deserunt ad sunt aliquip cupidatat ullamco sit nulla. Veniam voluptate consectetur sunt excepteur.",
+          "text": "Proident non sint aliquip dolor Lorem reprehenderit et nisi in aliqua.",
           "spans": []
         }
       ],
-      "top": false
+      "top": true
     }
   }
 ]

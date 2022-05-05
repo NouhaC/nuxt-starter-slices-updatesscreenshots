@@ -267,6 +267,12 @@
           },
           "image": {
             "content": "https://images.prismic.io/slices-example-nuxt/88018c9e-897f-4a96-b5af-8cad835333f0_image-primary.png"
+          },
+          "title": {
+            "config": {
+              "patternType": "HEADING",
+              "blocks": 1
+            }
           }
         }
       },
@@ -624,7 +630,7 @@
             }
           },
           "image": {
-            "content": "https://images.prismic.io/slices-example-nuxt/48a00ca6-db07-4a2f-91ed-afe60db0ccca_image-secondary.png"
+            "content": "https://images.prismic.io/slices-example-nuxt/88018c9e-897f-4a96-b5af-8cad835333f0_image-primary.png"
           }
         }
       },
@@ -927,7 +933,7 @@
       "stacked": {
         "items": {
           "logo": {
-            "content": "https://images.prismic.io/slices-example-nuxt/48a00ca6-db07-4a2f-91ed-afe60db0ccca_image-secondary.png"
+            "content": "https://images.prismic.io/slices-example-nuxt/88018c9e-897f-4a96-b5af-8cad835333f0_image-primary.png"
           }
         }
       },
@@ -948,7 +954,7 @@
       "carouselSecondary": {
         "items": {
           "logo": {
-            "content": "https://images.prismic.io/slices-example-nuxt/88018c9e-897f-4a96-b5af-8cad835333f0_image-primary.png"
+            "content": "https://slices-example-nuxt.cdn.prismic.io/slices-example-nuxt/8796a201-4730-44af-8693-4f6ebaff5fde_klarna-secondary.svg"
           }
         }
       }
@@ -2789,7 +2795,7 @@
       "left": {
         "items": {
           "image": {
-            "content": "https://images.prismic.io/slices-example-nuxt/48a00ca6-db07-4a2f-91ed-afe60db0ccca_image-secondary.png"
+            "content": "https://slices-example-nuxt.cdn.prismic.io/slices-example-nuxt/8149bfaa-f449-4eea-9e63-48c5ff96a0c1_usp-1.svg"
           }
         }
       },
